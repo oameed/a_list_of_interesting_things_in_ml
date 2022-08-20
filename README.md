@@ -1,8 +1,11 @@
 # A List of Interesting Things in ML
 
 ## Online Courses
+   * [[view]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 0000. Andrew Ng. _Machine Learning (Coursera, by Stanford)_ [[`AI - All in One` on YouTube]](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/featured)  
+   * [[view]](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) 2012. Geoffrey Hinton. _Neural Networks for Machine Learning (Coursera)_  <br/><br/>
    * [[view]](https://developers.google.com/machine-learning) _Google Machine Learning Education_  <br/><br/>
    * DeepLearning.AI:
+     * [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
      * [[view]](https://www.coursera.org/specializations/deep-learning) _Deep Learning Specialization_  
      * [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) _Generative Adversarial Networks (GANs) Specialization_  
      * [[view]](https://www.coursera.org/specializations/natural-language-processing) _Natural Language Processing Specialization_  
@@ -11,11 +14,9 @@
      * [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) _TensorFlow Developer Professional Certificate_  <br/><br/>
    * Udacity:
      * [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_    <br/><br/>
-   * [[view]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 0000. Andrew Ng. _Machine Learning (Coursera, by Stanford)_ [[`AI - All in One` on YouTube]](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/featured)  
    * [[view]](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 2018. Andrew Ng. _Stanford CS229: Machine Learning_ [[`stanfordonline` on YouTube]](https://www.youtube.com/user/stanfordonline/featured)  
    * [[view]](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 2018. Andrew Ng. _Stanford CS230: Deep Learning_  
    * [[view]](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 2016. Andrej Karpathy. _Stanford CS231n: CNNs for Visual Recognition_  
-   * [[view]](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) 2012. Geoffrey Hinton. _Neural Networks for Machine Learning (Coursera)_  
      
 ## Certificates
    * [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
@@ -49,11 +50,9 @@
      * [[view]](https://towardsdatascience.com/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) 2020.09. Emma Ding. _How I Got 4 Data Science Offers and Doubled my Income 2 Months after being Laid Off_  
      * [[view]](Docs/2020.02.%20Jee.%20Data%20Science%20Resume%20Mistakes%20to%20Avoid.pdf) 2020.02. Jee. _Data Science Resume Mistakes to Avoid_ [[view on Medium]](https://towardsdatascience.com/data-science-resume-mistakes-to-avoid-2867460659ac#:~:text=Mistake%201%3A%20You%20don't,give%20yourself%20the%20best%20shot.)    
 
-## Interesting Articles on Special Topics
+## Interesting Articles / Blogs on Special Topics
    * [[view]](https://nealanalytics.com/blog/what-is-mlops/) 2022.07. Webster. _What is MLOps?_  
-   * [[view]](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/) 2020.09. Merritt. _What Is MLOps?_  
-   
-## Experiences
+   * [[view]](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/) 2020.09. Merritt. _What Is MLOps?_  <br/><br/>
    * [[view]](https://github.com/eugeneyan/applied-ml) Eugeneyan. _applied-ml: Curated papers, articles, and blogs on DS & ML in production_  
 
 
