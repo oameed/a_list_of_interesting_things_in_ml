@@ -48,7 +48,11 @@
      * [[view]](https://www.linkedin.com/pulse/linkedin-top-startups-2021-50-us-companies-rise-linkedin-news) 2021.09. _LinkedIn Top Startups 2021: The 50 U.S. companies on the rise_  
      * [[view]](https://towardsdatascience.com/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) 2020.09. Emma Ding. _How I Got 4 Data Science Offers and Doubled my Income 2 Months after being Laid Off_  
      * [[view]](Docs/2020.02.%20Jee.%20Data%20Science%20Resume%20Mistakes%20to%20Avoid.pdf) 2020.02. Jee. _Data Science Resume Mistakes to Avoid_ [[view on Medium]](https://towardsdatascience.com/data-science-resume-mistakes-to-avoid-2867460659ac#:~:text=Mistake%201%3A%20You%20don't,give%20yourself%20the%20best%20shot.)    
-     
+
+## Interesting Articles on Special Topics
+   * [[view]](https://nealanalytics.com/blog/what-is-mlops/) 2022.07. Webster. _What is MLOps?_  
+   * [[view]](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/) 2020.09. Merritt. _What Is MLOps?_  
+   
 ## Experiences
    * [[view]](https://github.com/eugeneyan/applied-ml) Eugeneyan. _applied-ml: Curated papers, articles, and blogs on DS & ML in production_  
 
