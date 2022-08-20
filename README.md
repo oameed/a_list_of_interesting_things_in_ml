@@ -4,7 +4,7 @@
    * [[view]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 0000. Andrew Ng. _Machine Learning (Coursera, by Stanford)_ [[`AI - All in One` on YouTube]](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/featured)  
    * [[view]](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) 2012. Geoffrey Hinton. _Neural Networks for Machine Learning (Coursera)_  <br/><br/>
    * [[view]](https://developers.google.com/machine-learning) _Google Machine Learning Education_  <br/><br/>
-   * DeepLearning.AI:
+   * DeepLearning.AI / Coursera:
      * [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
      * [[view]](https://www.coursera.org/specializations/deep-learning) _Deep Learning Specialization_  
      * [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) _Generative Adversarial Networks (GANs) Specialization_  
@@ -42,7 +42,7 @@
        * [[view]](https://www.kaggle.com/general/300249) Yousef. _Data Science Interviews Q&A_  
        * [[view]](https://github.com/hashbanger/Twitter) _`hashbanger`'s collection of twitter threads on Machine Learning and Deep Learning_  
    * **Behavioral Interview**
-     * [[view]](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) Haseeb. _en Rules for Negotiating a Job Offer_  
+     * [[view]](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) Haseeb. _Ten Rules for Negotiating a Job Offer_  
    * **General Job Search / Interview Help**     
      * [[view]](https://grow.google/) _Grow with Google_ [[Interview Warmup]](https://grow.google/certificates/interview-warmup/?utm_source=gDigital&utm_medium=gwgsite&utm_campaign=interviewwarmup&utm_content=homepage-carousel)  
      * [[view]](https://youtu.be/sMfyW7Y-n7k) 2022.05. CareerVidz. _TOP 10 ENGLISH SENTENCES to use in a JOB INTERVIEW!_  
