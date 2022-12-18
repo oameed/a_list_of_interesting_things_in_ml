@@ -14,7 +14,7 @@
      * [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) _TensorFlow Developer Professional Certificate_  <br/><br/>
    * Udacity:
      * [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_    <br/><br/>
-   * [[view]]() 2018. Amidi. _Cheatsheets for Stanford CS229: Machine Learning_ 
+   * [[view]](https://stanford.edu/~shervine/teaching/cs-229/) 2018. Amidi. _Cheatsheets for Stanford CS229: Machine Learning_ 
    * [[view]](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 2018. Andrew Ng. _Stanford CS229: Machine Learning_ [[`stanfordonline` on YouTube]](https://www.youtube.com/user/stanfordonline/featured)  
    * [[view]](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 2018. Andrew Ng. _Stanford CS230: Deep Learning_  
    * [[view]](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 2016. Andrej Karpathy. _Stanford CS231n: CNNs for Visual Recognition_  
