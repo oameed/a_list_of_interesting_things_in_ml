@@ -14,6 +14,28 @@
   * [[view]](https://gitlab.com/oameed/ml_production_tfx) ML Production with TensorFlow Extended (TFX)  
   * [[view]](https://gitlab.com/oameed/ml_reinforcementlearning_tensorflow) Reinforcement Learning with TF-Agents/Gym/Reverb  
 
+## Latest Research
+
+[[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
+[[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
+[[view]](https://research.google/) Google Research  
+[[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
+[[view]](https://deepmind.com/) Deep Mind [[Blog]](https://deepmind.com/blog)  
+[[view]](https://blog.tensorflow.org/) Tensorflow Blog  
+[[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
+[[view]](https://www.amazon.science/) Amazon Science  
+[[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
+[[view]](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html) Intel AI [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html)  
+[[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
+[[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
+[[view]](https://www.nvidia.com/en-us/research/) NVIDIA Research  
+[[view]](https://www.amd.com/en/corporate/research) AMD Research  
+
+[[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
+[[view]](https://ai.stanford.edu/) Stanford AI Lab  
+[[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
+[[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
+
 ## Online Courses & Certificates
 
 * [Google Machine Learning Education](https://developers.google.com/machine-learning)  
@@ -35,12 +57,14 @@
 
 ## Technical Interview Resources
 
-* [[view]](https://huyenchip.com/ml-interviews-book/) 2022.08. Huyen. _Introduction to Machine Learning Interviews Book_ [[GitHub]](https://github.com/chiphuyen/ml-interviews-book)  
-* [[view]](https://huyenchip.com/machine-learning-systems-design/toc.html) 2022.06. Huyen. _Machine Learning Interviews: ML Systems Design_ [[GitHub]](https://github.com/chiphuyen/machine-learning-systems-design)  
-* [[view]](Docs/2022.03.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2022.03. Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6914926733280309248/)  
-* [[view]](Docs/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
-* [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[`Ding` on YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
-* [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_  
+* _Articles & Guides_
+  
+  * [[view]](https://huyenchip.com/ml-interviews-book/) 2022.08. Huyen. _Introduction to Machine Learning Interviews Book_ [[GitHub]](https://github.com/chiphuyen/ml-interviews-book)  
+  * [[view]](https://huyenchip.com/machine-learning-systems-design/toc.html) 2022.06. Huyen. _Machine Learning Interviews: ML Systems Design_ [[GitHub]](https://github.com/chiphuyen/machine-learning-systems-design)  
+  * [[view]](Docs/2022.03.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2022.03. Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6914926733280309248/)  
+  * [[view]](Docs/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
+  * [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[`Ding` on YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
+  * [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_  
 
 * _Q&A_
   
