@@ -6,7 +6,7 @@
 
 **_Supporting Repositories_**  
   * [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) Statistical Learning with scikit-learn  
-  * [[view]](https://gitlab.com/oameed/ml_deeplearning_tf2/-/blob/master/README.md) Deep Learning with TensorFlow 2  
+  * [[view]](https://gitlab.com/oameed/ml_deeplearning_tf2) Deep Learning with TensorFlow 2  
   * [[view]](https://gitlab.com/oameed/ml_deeplearning_pytorch) Deep Learning with PyTorch  
   * [[view]](https://gitlab.com/oameed/ml_deeplearning_matlab) Deep Learning with MATLAB's Deep Learning Toolbox  
   * [[view]](https://gitlab.com/oameed/ml_deeplearning_tf1x) Deep Learning with TensorFlow 1X  
