@@ -8,7 +8,7 @@
 [[view]](https://research.google/) Google Research  
 [[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
 [[view]](https://deepmind.com/) Deep Mind [[Blog]](https://deepmind.com/blog)  
-[[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI
+[[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI  
 [[view]](https://www.amazon.science/) Amazon Science  
 [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
 [[view]](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html) Intel AI [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html)  
