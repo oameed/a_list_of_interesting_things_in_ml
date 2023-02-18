@@ -74,15 +74,15 @@
 * _Articles & Guides_  
   [[view]](https://huyenchip.com/ml-interviews-book/) 2022.08. Huyen. _Introduction to Machine Learning Interviews Book_ [[GitHub]](https://github.com/chiphuyen/ml-interviews-book)  
   [[view]](https://huyenchip.com/machine-learning-systems-design/toc.html) 2022.06. Huyen. _Machine Learning Interviews: ML Systems Design_ [[GitHub]](https://github.com/chiphuyen/machine-learning-systems-design)  
-  [[view]](Docs/2022.03.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2022.03. Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6914926733280309248/)  
-  [[view]](Docs/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
-  [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[`Ding` on YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
+  [[view]](Docs/2022.03.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2022.03. Lahiri. _Preperation for ML/Data Science Interviews_ [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6914926733280309248/)  
+  [[view]](Docs/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Lahiri. _Preperation for ML/Data Science Interviews_ [[LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
+  [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
   [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_  
 
 * _Q&A_  
-  [[view]](Docs/2022.04.%20Hossny.%2050%20Data%20Science%20Interview%20Questions.pdf) 2022.04. Hossny. _50 Data Science Interview Questions_ [[view on Medium]](https://hany-hossny.medium.com/50-data-science-interview-questions-d2f1d82fb4d8)  
+  [[view]](Docs/2022.04.%20Hossny.%2050%20Data%20Science%20Interview%20Questions.pdf) 2022.04. Hossny. _50 Data Science Interview Questions_ [[Medium]](https://hany-hossny.medium.com/50-data-science-interview-questions-d2f1d82fb4d8)  
   [[view]](https://arxiv.org/abs/2201.00650) 2021.12. Kashani. _Deep Learning Interviews: Hundreds of fully solved job interview questions_ [[GitHub]](https://github.com/BoltzmannEntropy/interviews.ai)  
-  [[view]](Docs/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Anwar. _Cheat Sheets for ML and Data Science_ [[`Anwar`'s Cheat Sheets Website]](https://sites.google.com/view/datascience-cheat-sheets)  
+  [[view]](Docs/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Anwar. _Cheat Sheets for ML and Data Science_ [[`Anwar`'s Website]](https://sites.google.com/view/datascience-cheat-sheets)  
   [[view]](Docs/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Nouri. _800 Q&A for Data Science_  
   [[view]](Docs/0000.00.%20ineuron.ai.%20Data%20Science%20Interview%20Questions.pdf) 0000.00. ineuron.ai. _Data Science Interview Questions_ [[ineuron.ai]](https://ineuron.ai/)  
   [[view]](https://www.kaggle.com/general/300249) 0000.00. Yousef. _Data Science Interviews Q&A_  
