@@ -20,7 +20,7 @@
 [[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
 [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
 [[view]](https://www.amd.com/en/corporate/research) AMD Research  
-[[view]](https://www.hpe.com/us/en/compute/hpc/deep-learning.html) HPE DL/ML Solutions  
+
 
 [[view]](https://blog.tensorflow.org/) Tensorflow Blog  
 
