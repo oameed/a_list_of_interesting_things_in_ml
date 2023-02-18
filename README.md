@@ -21,9 +21,6 @@
 [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
 [[view]](https://www.amd.com/en/corporate/research) AMD Research  
 
-
-[[view]](https://blog.tensorflow.org/) Tensorflow Blog  
-
 [[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
 [[view]](https://ai.stanford.edu/) Stanford AI Lab  
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
