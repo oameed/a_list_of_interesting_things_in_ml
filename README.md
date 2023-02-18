@@ -42,8 +42,6 @@
     [[view]](https://gitlab.com/oameed/ml_reinforcementlearning_tensorflow) Reinforcement Learning with TF-Agents/Gym/Reverb  
 
 * **_Certificates & Online Courses_**  
-  * [Google Machine Learning Education](https://developers.google.com/machine-learning)  
-    [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_  
   
   * Coursera  
     [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
@@ -53,11 +51,20 @@
     [[view]](https://www.coursera.org/specializations/reinforcement-learning) _Reinforcement Learning Specialization_  
     [[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) _Machine Learning Engineering for Production (MLOps) Specialization_  
     [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) _TensorFlow Developer Professional Certificate_  
-
+   
+  * [Google Machine Learning Education](https://developers.google.com/machine-learning)  
+    [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_  
+  
+  * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
+    [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
+  
+  * TensorFlow  
+    [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
+  
   * Udacity  
     [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
 
-  * [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
+  
 
 ## Technical Interview Resources
 
