@@ -8,6 +8,7 @@
 [[view]](https://research.google/) Google Research  
 [[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
 [[view]](https://deepmind.com/) Deep Mind [[Blog]](https://deepmind.com/blog)  
+[[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI
 [[view]](https://www.amazon.science/) Amazon Science  
 [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
 [[view]](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html) Intel AI [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html)  
@@ -21,8 +22,8 @@
 [[view]](https://www.amd.com/en/corporate/research) AMD Research  
 
 [[view]](https://blog.tensorflow.org/) Tensorflow Blog  
-[[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
 
+[[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
 [[view]](https://ai.stanford.edu/) Stanford AI Lab  
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
 [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
