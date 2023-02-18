@@ -33,7 +33,7 @@
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
 [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
 
-## A Review of Machine Learning
+## Learning Machine Learning
 
 * **0000. Noakoasteen. _A Review of Machine Learning_**  
   **_Supporting Repositories_**  
@@ -68,8 +68,6 @@
   
   * Udacity  
     [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
-
-  
 
 ## Technical Interview Resources
 
