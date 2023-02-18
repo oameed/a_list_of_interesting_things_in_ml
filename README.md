@@ -3,7 +3,6 @@
 ## Machine Learning R&D / Applications
 
 * **_Technology Companies_**  
-
 [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
 [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
 [[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
@@ -24,7 +23,6 @@
 [[view]](https://www.amd.com/en/corporate/research) AMD Research  
 
 * **_University Labs_**  
-
 [[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
 [[view]](https://ai.stanford.edu/) Stanford AI Lab  
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
