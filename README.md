@@ -30,7 +30,7 @@
 
 ## A Review of Machine Learning
 
-* [[view]]() **0000. Noakoasteen. _A Review of Machine Learning_**  
+* **0000. Noakoasteen. _A Review of Machine Learning_**  
   **_Supporting Repositories_**  
     [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) Statistical Learning with scikit-learn  
     [[view]](https://gitlab.com/oameed/ml_deeplearning_tf2) Deep Learning with TensorFlow 2  
