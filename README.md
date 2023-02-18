@@ -35,8 +35,8 @@
 
 ## Learning Machine Learning
 
-* **0000. Noakoasteen. _A Review of Machine Learning_**  
-  **_Supporting Repositories_**  
+* **_A Review of Machine Learning_**  
+  _Supporting Repositories_  
     [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) Statistical Learning with scikit-learn  
     [[view]](https://gitlab.com/oameed/ml_deeplearning_tf2) Deep Learning with TensorFlow 2  
     [[view]](https://gitlab.com/oameed/ml_deeplearning_pytorch) Deep Learning with PyTorch  
