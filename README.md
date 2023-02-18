@@ -13,6 +13,7 @@
 [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
 [[view]](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html) Intel AI [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html)  
 [[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
+[[view]](https://www.cisco.com/c/en/us/solutions/artificial-intelligence.html) cisco AI/ML-Driven Solutions
 [[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
 [[view]](https://www.hpe.com/us/en/compute/hpc/deep-learning.html) HPE DL/ML Solutions  
 [[view]](https://research.netflix.com/) NETFLIX Research  
