@@ -11,7 +11,7 @@
 [[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI  
 [[view]](https://www.amazon.science/) Amazon Science  
 [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
-[[view]](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html) Intel AI [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html)  
+[[view]](https://www.intel.com/content/www/us/en/research/overview.html) Intel AI Research [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html) [[News]](https://www.intel.com/content/www/us/en/newsroom/artificial-intelligence.html?filters=[-7300596454,-8111542043]#gs.6uup8x)  
 [[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
 [[view]](https://www.dell.com/en-us/dt/solutions/high-performance-computing/HPC-AI-Innovation-Lab.htm#scroll=off&tab0=0) DELL HPC & AI Innovation Lab  
 [[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
