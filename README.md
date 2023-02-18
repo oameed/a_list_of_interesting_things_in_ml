@@ -2,6 +2,8 @@
 
 ## Machine Learning R&D / Applications
 
+* **_Technology Companies_**  
+
 [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
 [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
 [[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
@@ -20,6 +22,8 @@
 [[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
 [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
 [[view]](https://www.amd.com/en/corporate/research) AMD Research  
+
+* **_University Labs_**  
 
 [[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
 [[view]](https://ai.stanford.edu/) Stanford AI Lab  
