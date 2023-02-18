@@ -1,6 +1,6 @@
 # A List of Interesting Things in ML
 
-## Machine Learning R&D
+## Machine Learning R&D / Applications
 
 [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
 [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
@@ -13,14 +13,14 @@
 [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
 [[view]](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html) Intel AI [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html)  
 [[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
-[[view]](https://www.cisco.com/c/en/us/solutions/artificial-intelligence.html) cisco AI/ML-Driven Solutions
+[[view]](https://www.dell.com/en-us/dt/solutions/high-performance-computing/HPC-AI-Innovation-Lab.htm#scroll=off&tab0=0) DELL HPC & AI Innovation Lab  
 [[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
-[[view]](https://www.hpe.com/us/en/compute/hpc/deep-learning.html) HPE DL/ML Solutions  
 [[view]](https://research.netflix.com/) NETFLIX Research  
 [[view]](https://www.nvidia.com/en-us/research/) NVIDIA Research  
 [[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
 [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
 [[view]](https://www.amd.com/en/corporate/research) AMD Research  
+[[view]](https://www.hpe.com/us/en/compute/hpc/deep-learning.html) HPE DL/ML Solutions  
 
 [[view]](https://blog.tensorflow.org/) Tensorflow Blog  
 
