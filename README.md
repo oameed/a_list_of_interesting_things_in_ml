@@ -2,6 +2,11 @@
 
 ## Machine Learning R&D / Applications
 
+* **_Government_**  
+[[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
+[[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
+[[view]](https://www.ai.gov/) _National AI Initiative_  
+
 * **_Technology Companies_**  
 [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
 [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
