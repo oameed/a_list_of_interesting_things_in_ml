@@ -70,6 +70,10 @@
   * Udacity  
     [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
 
+## Interesting Reads
+[[view]](https://arxiv.org/abs/2302.07730) 2023. Amatriain. _Transformer models: an introduction and catalog_  
+[[view]](https://arxiv.org/abs/2108.07258) 2021.  Bommasani. _On the Opportunities and Risks of Foundation Models_  
+
 ## Technical Interview Resources
 
 * _Articles & Guides_  
