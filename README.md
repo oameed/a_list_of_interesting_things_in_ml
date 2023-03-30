@@ -37,9 +37,13 @@
 ## Large Language Models
 
 **_OpenAI_**  
-[[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://openai.com/research/gpt-4)    
+[[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[Technical Report]](https://arxiv.org/abs/2303.08774), [[System Card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
 
 **_Google_**  
+[[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[Paper]](https://arxiv.org/abs/2204.02311)  
+[[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[Paper]](https://arxiv.org/abs/2201.08239)  
+[[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[Paper]](https://arxiv.org/abs/1810.04805)  
+
 
 **_META_**  
 
