@@ -1,7 +1,7 @@
 # A List of Interesting Things in ML
 
 
-## Machine Learning R&D / Applications
+## Machine Learning Research
 
 * **_Government_**  
 [[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
@@ -33,6 +33,16 @@
 [[view]](https://ai.stanford.edu/) Stanford AI Lab  
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
 [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
+
+## Foundational Models
+[[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
+
+**_OpenAI_**  
+[[view]](https://openai.com/research/gpt-4) _GPT-4_  
+[[view]](https://openai.com/product/dall-e-2) _DALL·E 2_  
+**_Google_**  
+
+**_META_**  
 
 ## Learning Machine Learning
 
@@ -72,7 +82,7 @@
 
 ## Interesting Reads
 [[view]](https://arxiv.org/abs/2302.07730) 2023.02. Amatriain. _Transformer models: an introduction and catalog_  
-[[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
+
 
 ## Technical Interview Resources
 
