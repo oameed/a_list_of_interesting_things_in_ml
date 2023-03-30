@@ -38,6 +38,7 @@
 
 **_OpenAI_**  
 [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774) [[system card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
+[[view]](https://openai.com/research/language-unsupervised) 2018.06. _GPT_ [[paper]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 
 **_Google_**  
 [[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[paper]](https://arxiv.org/abs/2204.02311)  
