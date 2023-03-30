@@ -37,17 +37,17 @@
 ## Large Language Models
 
 **_OpenAI_**  
-[[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[Technical Report]](https://arxiv.org/abs/2303.08774), [[System Card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
+[[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774) [[system card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
 
 **_Google_**  
-[[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[Paper]](https://arxiv.org/abs/2204.02311)  
-[[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[Paper]](https://arxiv.org/abs/2201.08239)  
-[[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[Paper]](https://arxiv.org/abs/1810.04805)  
-
+[[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[paper]](https://arxiv.org/abs/2204.02311)  
+[[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[paper]](https://arxiv.org/abs/2201.08239)  
+[[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805)  
 
 **_META_**  
+[[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[model card]](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)  
 
-## Interesting Reads
+_Interesting Reads_  
 [[view]](https://arxiv.org/abs/2302.07730) 2023.02. Amatriain. _Transformer models: an introduction and catalog_  
 [[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
