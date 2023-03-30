@@ -38,8 +38,8 @@
 [[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
 **_OpenAI_**  
-[[view]](https://openai.com/research/gpt-4) _GPT-4_  
-[[view]](https://openai.com/product/dall-e-2) _DALL·E 2_  
+[[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://openai.com/research/gpt-4)    
+[[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://openai.com/research/hierarchical-text-conditional-image-generation-with-clip-latents)  
 **_Google_**  
 
 **_META_**  
