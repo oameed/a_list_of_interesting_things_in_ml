@@ -38,6 +38,7 @@
 
 **_OpenAI_**  
 [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774) [[system card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
+[[view]](https://openai.com/research/better-language-models) 2019.02. _GPT-2_ [[paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
 [[view]](https://openai.com/research/language-unsupervised) 2018.06. _GPT_ [[paper]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 
 **_Google_**  
