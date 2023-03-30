@@ -34,15 +34,18 @@
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
 [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
 
-## Foundational Models
-[[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
+## Large Language Models
 
 **_OpenAI_**  
 [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://openai.com/research/gpt-4)    
-[[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://openai.com/research/hierarchical-text-conditional-image-generation-with-clip-latents)  
+
 **_Google_**  
 
 **_META_**  
+
+## Interesting Reads
+[[view]](https://arxiv.org/abs/2302.07730) 2023.02. Amatriain. _Transformer models: an introduction and catalog_  
+[[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
 ## Learning Machine Learning
 
@@ -79,10 +82,6 @@
   
   * Udacity  
     [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
-
-## Interesting Reads
-[[view]](https://arxiv.org/abs/2302.07730) 2023.02. Amatriain. _Transformer models: an introduction and catalog_  
-
 
 ## Technical Interview Resources
 
