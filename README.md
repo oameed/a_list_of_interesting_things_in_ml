@@ -37,7 +37,7 @@
 ## Foundation Models
 [[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
-* **_Large Language Models_**  
+* **_Foundation Models for Language (Large Language Models)_**  
   **_OpenAI_**  
   [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774) [[system card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
   [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165)  
@@ -49,6 +49,9 @@
 [[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805)  
 **_META_**  
 [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[model card]](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)  
+
+* **_Foundation Models for Vision_**  
+ 
 
 ## Learning Machine Learning
 
