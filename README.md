@@ -54,7 +54,8 @@
 [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[model card]](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)  
 
 * **_Foundation Models for Vision_**  
- 
+  **_Microsoft_**  
+  [[view]](https://www.microsoft.com/en-us/research/publication/florence-a-new-foundation-model-for-computer-vision/) 2021.11. _Florence_ [[paper]](https://arxiv.org/abs/2111.11432)  
 
 ## Learning Machine Learning
 
