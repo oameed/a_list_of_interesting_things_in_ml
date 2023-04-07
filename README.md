@@ -40,6 +40,7 @@
 * **_Foundation Models for Language (Large Language Models)_**  
   **_OpenAI_**  
   [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774) [[system card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
+  [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
   [[view]](https://openai.com/research/clip) 2021.02. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020)  
   [[view]](https://openai.com/research/dall-e) 2021.02. _DALL·E_ [[paper]](https://arxiv.org/abs/2102.12092)  
   [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165)  
