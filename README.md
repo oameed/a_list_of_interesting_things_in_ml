@@ -40,6 +40,7 @@
 * **_Foundation Models for Language (Large Language Models)_**  
   **_OpenAI_**  
   [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774) [[system card]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
+  [[view]](https://openai.com/research/clip) 2021.02. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020)  
   [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165)  
   [[view]](https://openai.com/research/better-language-models) 2019.02. _GPT-2_ [[paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
   [[view]](https://openai.com/research/language-unsupervised) 2018.06. _GPT_ [[paper]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
