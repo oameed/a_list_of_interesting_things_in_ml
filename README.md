@@ -59,6 +59,7 @@
   **_Microsoft_**  
   [view] 2021.11. _Florence_ [[paper]](https://arxiv.org/abs/2111.11432)  
   **_META/FAIR_**  
+  [[view]](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/) 2023.04. _SAM_ [[paper]](https://arxiv.org/abs/2304.02643) [[GitHub]](https://github.com/facebookresearch/segment-anything)  
   [view] 2021.12. _FLAVA_ [[paper]](https://arxiv.org/abs/2112.04482) [[GitHub]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)  
 ### Other Models
 **_DeepMind_**  
