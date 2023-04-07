@@ -56,6 +56,8 @@
 * **_Foundation Models for Vision_**  
   **_Microsoft_**  
   [[view]](https://www.microsoft.com/en-us/research/publication/florence-a-new-foundation-model-for-computer-vision/) 2021.11. _Florence_ [[paper]](https://arxiv.org/abs/2111.11432)  
+  **_META/FAIR_**
+  [view] 2021.12. _FLAVA_ [[paper]](https://arxiv.org/abs/2112.04482)  
 
 ## Learning Machine Learning
 
