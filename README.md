@@ -34,7 +34,9 @@
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
 [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
 
-## Foundation Models
+## Cutting Edge of ML/AI Research
+
+### Foundation Models
 [[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
 * **_Foundation Models for Language (Large Language Models)_**  
@@ -58,6 +60,10 @@
   [view] 2021.11. _Florence_ [[paper]](https://arxiv.org/abs/2111.11432)  
   **_META/FAIR_**  
   [view] 2021.12. _FLAVA_ [[paper]](https://arxiv.org/abs/2112.04482)  
+
+### Other Models
+**_DeepMind_**  
+[[view]](https://www.deepmind.com/research/highlighted-research/alphafold) 2021.07. _AlphaFold_ [[Timeline]](https://www.deepmind.com/research/highlighted-research/alphafold/timeline-of-a-breakthrough) [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[GitHub]](https://github.com/deepmind/alphafold)  
 
 ## Learning Machine Learning
 
