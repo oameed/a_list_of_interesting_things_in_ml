@@ -3,11 +3,6 @@
 
 ## Machine Learning Research
 
-* **_Government_**  
-[[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
-[[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
-[[view]](https://www.ai.gov/) _National AI Initiative_  
-
 * **_Technology Companies_**  
 [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
 [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
@@ -33,6 +28,12 @@
 [[view]](https://ai.stanford.edu/) Stanford AI Lab  
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
 [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
+
+* **_Policy/Regulation_**  
+[[view]](https://hai.stanford.edu/) _The Institute for Human-Centered AI (HAI)_  
+[[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
+[[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
+[[view]](https://www.ai.gov/) _National AI Initiative_  
 
 ## Cutting Edge of ML/AI Research
 
