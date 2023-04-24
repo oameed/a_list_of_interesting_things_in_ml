@@ -29,7 +29,7 @@
 [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
 [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
 
-* **_Policy/Regulation_**  
+* **_Policy/Regulation/AI Governance_**  
 [[view]](https://hai.stanford.edu/) _The Institute for Human-Centered AI (HAI)_  
 [[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
 [[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
