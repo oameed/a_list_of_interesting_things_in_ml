@@ -119,4 +119,8 @@
   [[view]](Docs/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Nouri. _800 Q&A for Data Science_  
   [[view]](Docs/0000.00.%20ineuron.ai.%20Data%20Science%20Interview%20Questions.pdf) 0000.00. ineuron.ai. _Data Science Interview Questions_ [[ineuron.ai]](https://ineuron.ai/)  
   [[view]](https://www.kaggle.com/general/300249) 0000.00. Yousef. _Data Science Interviews Q&A_  
-  
+
+
+## Interesting Reads
+
+[[view]](https://arxiv.org/abs/2304.06035) 2023.03. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
