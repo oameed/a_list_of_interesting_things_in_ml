@@ -123,4 +123,4 @@
 
 ## Interesting Reads
 
-[[view]](https://arxiv.org/abs/2304.06035) 2023.03. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
+[[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
