@@ -124,3 +124,4 @@
 ## Interesting Reads
 
 [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
+[[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
