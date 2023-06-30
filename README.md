@@ -95,7 +95,7 @@
   * [Google Machine Learning Education](https://developers.google.com/machine-learning)  
     [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
 
-  * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys)
+  * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys)  
     [[view]](https://www.cloudskillsboost.google/journeys/118) _Generative AI learning path_  
   
   * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
