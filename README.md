@@ -124,7 +124,7 @@
 
 ## Interesting Reads
 
-[[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide)  
+[[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
 [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
 [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
 [[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
