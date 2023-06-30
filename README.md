@@ -80,7 +80,7 @@
     [[view]](https://gitlab.com/oameed/ml_production_tfx) ML Production with TensorFlow Extended (TFX)  
     [[view]](https://gitlab.com/oameed/ml_reinforcementlearning_tensorflow) Reinforcement Learning with TF-Agents/Gym/Reverb  
 
-* **_Certificates & Online Courses_**  
+* **_Online Courses & Certificates_**  
   
   * Coursera  
     [[view]](https://www.coursera.org/learn/generative-ai-with-llms) _Generative AI with Large Language Models_  
@@ -93,7 +93,10 @@
     [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) _TensorFlow Developer Professional Certificate_  
    
   * [Google Machine Learning Education](https://developers.google.com/machine-learning)  
-    [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_  
+    [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
+
+  * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys)
+    [[view]](https://www.cloudskillsboost.google/journeys/118) _Generative AI learning path_  
   
   * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
     [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
