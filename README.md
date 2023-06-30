@@ -82,7 +82,7 @@
 
 * **_Certificates & Online Courses_**  
   
-  * Coursera
+  * Coursera  
     [[view]](https://www.coursera.org/learn/generative-ai-with-llms) _Generative AI with Large Language Models_  
     [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
     [[view]](https://www.coursera.org/specializations/deep-learning) _Deep Learning Specialization_  
