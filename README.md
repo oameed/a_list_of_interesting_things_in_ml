@@ -54,13 +54,14 @@
 [[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[paper]](https://arxiv.org/abs/2204.02311)  
 [[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[paper]](https://arxiv.org/abs/2201.08239)  
 [[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805) [[GitHub]](https://github.com/google-research/bert)  
-**_META_**  
+**_META_**
+[[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama)  
 [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
 * **_Foundation Models for Vision_**  
   **_Microsoft_**  
   [view] 2021.11. _Florence_ [[paper]](https://arxiv.org/abs/2111.11432)  
-  **_META/FAIR_**  
+  **_META/FAIR_**
   [[view]](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/) 2023.04. _SAM_ [[paper]](https://arxiv.org/abs/2304.02643) [[GitHub]](https://github.com/facebookresearch/segment-anything)  
   [view] 2021.12. _FLAVA_ [[paper]](https://arxiv.org/abs/2112.04482) [[GitHub]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)  
 ### Other Important Models
