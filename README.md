@@ -42,6 +42,7 @@
 
 * **_Foundation Models for Language (Large Language Models)_**  
   **_OpenAI_**  
+  [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
   [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)  
   [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
   [[view]](https://openai.com/research/clip) 2021.02. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020) [[GitHub]](https://github.com/openai/CLIP)  
