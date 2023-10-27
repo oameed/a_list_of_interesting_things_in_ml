@@ -56,7 +56,7 @@
   [[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[paper]](https://arxiv.org/abs/2201.08239)  
   [[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805) [[GitHub]](https://github.com/google-research/bert)  
   **_META_**  
-  [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama)  
+  [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
   [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
 * **_Foundation Models for Vision_**  
