@@ -128,7 +128,7 @@
 * _Q&A_  
   [[view]](Docs/2022.04.%20Hossny.%2050%20Data%20Science%20Interview%20Questions.pdf) 2022.04. Hossny. _50 Data Science Interview Questions_ [[Medium]](https://hany-hossny.medium.com/50-data-science-interview-questions-d2f1d82fb4d8)  
   [[view]](https://arxiv.org/abs/2201.00650) 2021.12. Kashani. _Deep Learning Interviews: Hundreds of fully solved job interview questions_ [[GitHub]](https://github.com/BoltzmannEntropy/interviews.ai)  
-  [[view]](Docs/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Anwar. _Cheat Sheets for ML and Data Science_ [[`Anwar`'s Website]](https://sites.google.com/view/datascience-cheat-sheets)  
+  [[view]](Docs/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Anwar. _Cheat Sheets for ML and Data Science_ [[Anwar's Website]](https://sites.google.com/view/datascience-cheat-sheets)  
   [[view]](Docs/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Nouri. _800 Q&A for Data Science_  
   [[view]](Docs/0000.00.%20ineuron.ai.%20Data%20Science%20Interview%20Questions.pdf) 0000.00. ineuron.ai. _Data Science Interview Questions_ [[ineuron.ai]](https://ineuron.ai/)  
   [[view]](https://www.kaggle.com/general/300249) 0000.00. Yousef. _Data Science Interviews Q&A_
