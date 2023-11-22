@@ -77,6 +77,7 @@
 
 ## Interesting Reads
 
+[[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. Microsoft Cloud Advocates. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners)  
 [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
 [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
 [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
