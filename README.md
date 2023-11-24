@@ -103,6 +103,7 @@
 [[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
 [[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
 [[view]](https://research.netflix.com/) NETFLIX Research  
+[[view]](https://www.salesforceairesearch.com/) Salesforce AI Research  
 [[view]](https://www.nvidia.com/en-us/research/) NVIDIA Research  
 [[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
 [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
