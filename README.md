@@ -42,48 +42,42 @@
 
 ## AI/ML Research
 
-### Foundation Models
-[[view]](https://arxiv.org/abs/2108.07258) 2021.08. Bommasani. _On the Opportunities and Risks of Foundation Models_  
+* **Large Language Models (LLMs)**  
+  
+  [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
 
-* **_Foundation Models for Language (Large Language Models)_**  
-  **_OpenAI_**  
-  [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
-  [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)  
-  [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
-  [[view]](https://openai.com/research/clip) 2021.02. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020) [[GitHub]](https://github.com/openai/CLIP)  
-  [[view]](https://openai.com/research/dall-e) 2021.02. _DALL·E_ [[paper]](https://arxiv.org/abs/2102.12092) [[GitHub]](https://github.com/openai/DALL-E)  
-  [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165) [[GitHub]](https://github.com/openai/gpt-3)  
-  [[view]](https://openai.com/research/better-language-models) 2019.02. _GPT-2_ [[paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
-  [[view]](https://openai.com/research/language-unsupervised) 2018.06. _GPT_ [[paper]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
-  **_Google_**  
-  [[view]](https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-palm-2-ai-large-language-model/amp/) 2023.05. _PaLM 2_ [[paper]](https://ai.google/static/documents/palm2techreport.pdf)  
-  [[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[paper]](https://arxiv.org/abs/2204.02311)  
-  [[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[paper]](https://arxiv.org/abs/2201.08239)  
-  [[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805) [[GitHub]](https://github.com/google-research/bert)  
-  **_META_**  
-  [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
-  [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
+  * **_OpenAI_**  
+    [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
+    [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)  
+    [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
+    [[view]](https://openai.com/research/clip) 2021.02. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020) [[GitHub]](https://github.com/openai/CLIP)  
+    [[view]](https://openai.com/research/dall-e) 2021.02. _DALL·E_ [[paper]](https://arxiv.org/abs/2102.12092) [[GitHub]](https://github.com/openai/DALL-E)  
+    [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165) [[GitHub]](https://github.com/openai/gpt-3)  
+    [[view]](https://openai.com/research/better-language-models) 2019.02. _GPT-2_ [[paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
+    [[view]](https://openai.com/research/language-unsupervised) 2018.06. _GPT_ [[paper]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
+  * **_Google_**  
+    [[view]](https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-palm-2-ai-large-language-model/amp/) 2023.05. _PaLM 2_ [[paper]](https://ai.google/static/documents/palm2techreport.pdf)  
+    [[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[paper]](https://arxiv.org/abs/2204.02311)  
+    [[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[paper]](https://arxiv.org/abs/2201.08239)  
+    [[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805) [[GitHub]](https://github.com/google-research/bert)  
+  * **_META_**  
+    [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
+    [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
-* **_Foundation Models for Vision_**  
-  **_Microsoft_**  
-  [view] 2021.11. _Florence_ [[paper]](https://arxiv.org/abs/2111.11432)  
-  **_META/FAIR_**  
-  [[view]](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/) 2023.04. _SAM_ [[paper]](https://arxiv.org/abs/2304.02643) [[GitHub]](https://github.com/facebookresearch/segment-anything)  
-  [view] 2021.12. _FLAVA_ [[paper]](https://arxiv.org/abs/2112.04482) [[GitHub]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)  
-### Other Important Models
-**_DeepMind_**  
-[[view]](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/?utm_source=linkedin&utm_medium=social&utm_campaign=GraphCast/) 2023.11. _GraphCast_ [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[GitHub]](https://github.com/google-deepmind/graphcast) [[charts]](https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850?base_time=202311160000&projection=opencharts_europe&valid_time=202311160600)  
-[[view]](https://www.deepmind.com/research/highlighted-research/alphafold) 2021.07. _AlphaFold_ [[Timeline]](https://www.deepmind.com/research/highlighted-research/alphafold/timeline-of-a-breakthrough) [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[GitHub]](https://github.com/deepmind/alphafold)  
+* **Other Important Models**  
+  * **_Google DeepMind_**  
+    [[view]](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/?utm_source=linkedin&utm_medium=social&utm_campaign=GraphCast/) 2023.11. _GraphCast_ [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[GitHub]](https://github.com/google-deepmind/graphcast) [[charts]](https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850?base_time=202311160000&projection=opencharts_europe&valid_time=202311160600)  
+    [[view]](https://www.deepmind.com/research/highlighted-research/alphafold) 2021.07. _AlphaFold_ [[Timeline]](https://www.deepmind.com/research/highlighted-research/alphafold/timeline-of-a-breakthrough) [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[GitHub]](https://github.com/deepmind/alphafold)  
 
 ## Interesting Reads
 
-[view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
 [[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. Microsoft Cloud Advocates. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
 [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
 [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
 [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
 [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
 [[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
+[[view]](https://arxiv.org/abs/2108.07258) 2021. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
 ## AI/ML Labs/R&D
 
