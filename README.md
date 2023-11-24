@@ -47,11 +47,7 @@
   [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
 
   * **_OpenAI_**  
-    [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
-    [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)  
-    [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
-    [[view]](https://openai.com/research/clip) 2021.02. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020) [[GitHub]](https://github.com/openai/CLIP)  
-    [[view]](https://openai.com/research/dall-e) 2021.02. _DALL·E_ [[paper]](https://arxiv.org/abs/2102.12092) [[GitHub]](https://github.com/openai/DALL-E)  
+    [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)      
     [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165) [[GitHub]](https://github.com/openai/gpt-3)  
     [[view]](https://openai.com/research/better-language-models) 2019.02. _GPT-2_ [[paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
     [[view]](https://openai.com/research/language-unsupervised) 2018.06. _GPT_ [[paper]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -67,10 +63,19 @@
     [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
 * **Other Important Models**
+
+  * **_OpenAI_**  
+    [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
+    [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
+    [[view]](https://openai.com/research/dall-e) 2021.02. _DALL·E_ [[paper]](https://arxiv.org/abs/2102.12092) [[GitHub]](https://github.com/openai/DALL-E)  
+    [[view]](https://openai.com/research/clip) 2021.01. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020) [[GitHub]](https://github.com/openai/CLIP)  
   
   * **_Google DeepMind_**  
     [[view]](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/?utm_source=linkedin&utm_medium=social&utm_campaign=GraphCast/) 2023.11. _GraphCast_ [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[GitHub]](https://github.com/google-deepmind/graphcast) [[charts]](https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850?base_time=202311160000&projection=opencharts_europe&valid_time=202311160600)  
-    [[view]](https://www.deepmind.com/research/highlighted-research/alphafold) 2021.07. _AlphaFold_ [[Timeline]](https://www.deepmind.com/research/highlighted-research/alphafold/timeline-of-a-breakthrough) [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[GitHub]](https://github.com/deepmind/alphafold)  
+    [[view]](https://www.deepmind.com/research/highlighted-research/alphafold) 2021.07. _AlphaFold_ [[Timeline]](https://www.deepmind.com/research/highlighted-research/alphafold/timeline-of-a-breakthrough) [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[GitHub]](https://github.com/deepmind/alphafold)
+
+  * **_META_**  
+    [[view]](https://emu-video.metademolab.com/) 2023.11. _Emu Video_ [[paper]](https://arxiv.org/abs/2311.10709)  
 
 ## Interesting Reads
 
