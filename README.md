@@ -77,6 +77,7 @@
 
 ## Interesting Reads
 
+[view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
 [[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. Microsoft Cloud Advocates. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
 [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
 [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
