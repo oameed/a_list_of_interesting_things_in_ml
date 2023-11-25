@@ -13,24 +13,31 @@
     [[view]](https://gitlab.com/oameed/ml_production_tfx) ML Production with TensorFlow Extended (TFX)  
     [[view]](https://gitlab.com/oameed/ml_reinforcementlearning_tensorflow) Reinforcement Learning with TF-Agents/Gym/Reverb  
 
+* **Topic-based Resources**
+  
+  * MLOps  
+    [[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) 0000. **Coursera (DeepLearning.AI)**. _Machine Learning Engineering for Production (MLOps) Specialization_  
+    [[view]](https://huyenchip.com/mlops/) 0000. Huyen. _MLOps guide_  
+    [[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
+  
+  * Generative AI  
+    [[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. **Microsoft Cloud Advocates**. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
+    [[view]](https://www.coursera.org/learn/generative-ai-with-llms) 2023. **Coursera (AWS, DeepLearning.AI)**. _Generative AI with Large Language Models_  
+    [[view]](https://www.cloudskillsboost.google/journeys/118) 2023. **Google Cloud Skills Boost**. _Generative AI learning path_ [[YouTube]](https://youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn&si=hoHDSAFJ-AE8pknI)  
+
 * **_Online Courses & Certificates_**  
   
   * Coursera  
-    [[view]](https://www.coursera.org/learn/generative-ai-with-llms) _Generative AI with Large Language Models_  
     [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
     [[view]](https://www.coursera.org/specializations/deep-learning) _Deep Learning Specialization_  
     [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) _Generative Adversarial Networks (GANs) Specialization_  
     [[view]](https://www.coursera.org/specializations/natural-language-processing) _Natural Language Processing Specialization_  
     [[view]](https://www.coursera.org/specializations/reinforcement-learning) _Reinforcement Learning Specialization_  
-    [[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) _Machine Learning Engineering for Production (MLOps) Specialization_  
     [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) _TensorFlow Developer Professional Certificate_  
    
   * [Google Machine Learning Education](https://developers.google.com/machine-learning)  
     [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
 
-  * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys)  
-    [[view]](https://www.cloudskillsboost.google/journeys/118) _Generative AI learning path_  
-  
   * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
     [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
   
@@ -79,13 +86,11 @@
 
 ## Interesting Reads
 
-[[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. Microsoft Cloud Advocates. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
 [[view]](https://huyenchip.com/2023/10/10/multimodal.html) 2023. Huyen. _Multimodality and Large Multimodal Models (LMMs)_  
 [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
 [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
 [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
 [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
-[[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
 [[view]](https://arxiv.org/abs/2108.07258) 2021. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
 ## AI/ML Labs/R&D
