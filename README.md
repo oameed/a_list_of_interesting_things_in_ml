@@ -21,11 +21,12 @@
     [[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
   
   * Generative AI  
+    [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
     [[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. **Microsoft Cloud Advocates**. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
     [[view]](https://www.coursera.org/learn/generative-ai-with-llms) 2023. **Coursera (AWS, DeepLearning.AI)**. _Generative AI with Large Language Models_  
     [[view]](https://www.cloudskillsboost.google/journeys/118) 2023. **Google Cloud Skills Boost**. _Generative AI learning path_ [[YouTube]](https://youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn&si=hoHDSAFJ-AE8pknI)  
 
-* **_Online Courses & Certificates_**  
+* **_Online Certificates/Courses_**  
   
   * Coursera  
     [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
@@ -51,8 +52,6 @@
 
 * **Large Language Models (LLMs)**  
   
-  [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
-
   * **_OpenAI_**  
     [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)      
     [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165) [[GitHub]](https://github.com/openai/gpt-3)  
@@ -69,7 +68,7 @@
     [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
     [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
-* **Other Important Models**
+* **Other Significant/Interesting Models**
 
   * **_OpenAI_**  
     [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
