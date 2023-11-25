@@ -16,7 +16,7 @@
 * **Topic-based Resources**
   
   * MLOps  
-    [[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) 0000. **Coursera (DeepLearning.AI)**. _Machine Learning Engineering for Production (MLOps) Specialization_  
+    [[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) 0000. **Coursera (DeepLearning.AI)**. _ML Engineering for Production (MLOps) Specialization_  
     [[view]](https://huyenchip.com/mlops/) 0000. Huyen. _MLOps guide_  
     [[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
   
