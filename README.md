@@ -13,14 +13,14 @@
     [[view]](https://gitlab.com/oameed/ml_production_tfx) ML Production with TensorFlow Extended (TFX)  
     [[view]](https://gitlab.com/oameed/ml_reinforcementlearning_tensorflow) Reinforcement Learning with TF-Agents/Gym/Reverb  
 
-* **Topic-based Resources**
+* **_Topic-based Resources_**
   
-  * MLOps  
+  * **MLOps**  
     [[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) 0000. **Coursera (DeepLearning.AI)**. _ML Engineering for Production (MLOps) Specialization_  
     [[view]](https://huyenchip.com/mlops/) 0000. Huyen. _MLOps guide_  
     [[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
   
-  * Generative AI  
+  * **Generative AI**  
     [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
     [[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. **Microsoft Cloud Advocates**. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
     [[view]](https://www.coursera.org/learn/generative-ai-with-llms) 2023. **Coursera (AWS, DeepLearning.AI)**. _Generative AI with Large Language Models_  
@@ -28,7 +28,7 @@
 
 * **_Online Certificates/Courses_**  
   
-  * Coursera  
+  * **Coursera**  
     [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
     [[view]](https://www.coursera.org/specializations/deep-learning) _Deep Learning Specialization_  
     [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) _Generative Adversarial Networks (GANs) Specialization_  
@@ -36,51 +36,51 @@
     [[view]](https://www.coursera.org/specializations/reinforcement-learning) _Reinforcement Learning Specialization_  
     [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) _TensorFlow Developer Professional Certificate_  
    
-  * [Google Machine Learning Education](https://developers.google.com/machine-learning)  
+  * [**Google Machine Learning Education**](https://developers.google.com/machine-learning)  
     [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
 
-  * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)  
+  * [**NVIDIA Deep Learning Institute**](https://www.nvidia.com/en-us/training/)  
     [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
   
-  * TensorFlow  
+  * **TensorFlow**  
     [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
   
-  * Udacity  
+  * **Udacity**  
     [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
 
 ## AI/ML Research
 
-* **Large Language Models (LLMs)**  
+* **_Large Language Models (LLMs)_**  
   
-  * **_OpenAI_**  
+  * **OpenAI**  
     [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)      
     [[view]](https://openai.com/research/language-models-are-few-shot-learners) 2020.05. _GPT-3_ [[paper]](https://arxiv.org/abs/2005.14165) [[GitHub]](https://github.com/openai/gpt-3)  
     [[view]](https://openai.com/research/better-language-models) 2019.02. _GPT-2_ [[paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
     [[view]](https://openai.com/research/language-unsupervised) 2018.06. _GPT_ [[paper]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
     
-  * **_Google_**  
+  * **Google**  
     [[view]](https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-palm-2-ai-large-language-model/amp/) 2023.05. _PaLM 2_ [[paper]](https://ai.google/static/documents/palm2techreport.pdf)  
     [[view]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) 2022.04. _PaLM_ [[paper]](https://arxiv.org/abs/2204.02311)  
     [[view]](https://blog.google/technology/ai/lamda/) 2022.01. _LaMDA_ [[paper]](https://arxiv.org/abs/2201.08239)  
     [[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805) [[GitHub]](https://github.com/google-research/bert)
     
-  * **_META_**  
+  * **META**  
     [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
     [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
-* **Other Significant/Interesting Models**
+* **_Other Significant/Interesting Models_**
 
-  * **_OpenAI_**  
+  * **OpenAI**  
     [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
     [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
     [[view]](https://openai.com/research/dall-e) 2021.02. _DALL·E_ [[paper]](https://arxiv.org/abs/2102.12092) [[GitHub]](https://github.com/openai/DALL-E)  
     [[view]](https://openai.com/research/clip) 2021.01. _CLIP_ [[paper]](https://arxiv.org/abs/2103.00020) [[GitHub]](https://github.com/openai/CLIP)  
   
-  * **_Google DeepMind_**  
+  * **Google DeepMind**  
     [[view]](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/?utm_source=linkedin&utm_medium=social&utm_campaign=GraphCast/) 2023.11. _GraphCast_ [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[GitHub]](https://github.com/google-deepmind/graphcast) [[charts]](https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850?base_time=202311160000&projection=opencharts_europe&valid_time=202311160600)  
     [[view]](https://www.deepmind.com/research/highlighted-research/alphafold) 2021.07. _AlphaFold_ [[Timeline]](https://www.deepmind.com/research/highlighted-research/alphafold/timeline-of-a-breakthrough) [[paper]](https://www.nature.com/articles/s41586-021-03819-2) [[GitHub]](https://github.com/deepmind/alphafold)
 
-  * **_META_**  
+  * **META**  
     [[view]](https://emu-video.metademolab.com/) 2023.11. _Emu Video_ [[paper]](https://arxiv.org/abs/2311.10709)  
 
 ## Interesting Reads
@@ -100,7 +100,7 @@
 [[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
 [[view]](https://research.google/) Google Research  
 [[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
-[[view]](https://deepmind.com/) Deep Mind [[Blog]](https://deepmind.com/blog)  
+[[view]](https://deepmind.com/) Google Deep Mind [[Blog]](https://deepmind.com/blog)  
 [[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI  
 [[view]](https://www.amazon.science/) Amazon Science  
 [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
@@ -128,7 +128,7 @@
 
 ## Technical Interview Resources
 
-* _Articles & Guides_  
+* **_Articles & Guides_**  
   [[view]](https://huyenchip.com/ml-interviews-book/) 2022.08. Huyen. _Introduction to Machine Learning Interviews Book_ [[GitHub]](https://github.com/chiphuyen/ml-interviews-book)  
   [[view]](https://huyenchip.com/machine-learning-systems-design/toc.html) 2022.06. Huyen. _Machine Learning Interviews: ML Systems Design_ [[GitHub]](https://github.com/chiphuyen/machine-learning-systems-design)  
   [[view]](Docs/2022.03.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2022.03. Lahiri. _Preperation for ML/Data Science Interviews_ [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6914926733280309248/)  
@@ -136,7 +136,7 @@
   [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
   [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_  
 
-* _Q&A_  
+* **_Q&A_**  
   [[view]](Docs/2022.04.%20Hossny.%2050%20Data%20Science%20Interview%20Questions.pdf) 2022.04. Hossny. _50 Data Science Interview Questions_ [[Medium]](https://hany-hossny.medium.com/50-data-science-interview-questions-d2f1d82fb4d8)  
   [[view]](https://arxiv.org/abs/2201.00650) 2021.12. Kashani. _Deep Learning Interviews: Hundreds of fully solved job interview questions_ [[GitHub]](https://github.com/BoltzmannEntropy/interviews.ai)  
   [[view]](Docs/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Anwar. _Cheat Sheets for ML and Data Science_ [[Anwar's Website]](https://sites.google.com/view/datascience-cheat-sheets)  
