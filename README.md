@@ -85,13 +85,13 @@
   * **Textbooks**  
     [[view]](https://bayesoptbook.com/) 2023. Garnett. _Bayesian Optimization_  
     [[view]](https://www.statlearning.com/) 2021. James. Witten. _An Introduction to Statistical Learning. 2nd Edition_  
-    [[view]](https://us.artechhouse.com/Machine-Learning-Applications-in-Electromagnetics-and-Antenna-Array-Processing-P2104.aspx) 2021. Martinez-Ramon. _Machine Learning Applications in Electromagnetics and Antenna Array Processing_  
+    [[view]](https://us.artechhouse.com/Machine-Learning-Applications-in-Electromagnetics-and-Antenna-Array-Processing-P2104.aspx) 2021. Martinez-Ramon. _ML Applications in EM and Antenna Array Processing_  
     [[view]](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html) 2020. Russell. Norvig. _Artificial Intelligence: A Modern Approach. 4th Edition_  
-    [[view]](https://hastie.su.domains/ElemStatLearn/) 2017. Hastie. Tibshirani. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction. 2nd Edition_  
+    [[view]](https://hastie.su.domains/ElemStatLearn/) 2017. Hastie. Tibshirani. _The Elements of Statistical Learning. 2nd Edition_  
     [view] 2016. Goodfellow. _Deep Learning_ [[Chapter 5: Machine Learning Basics]](https://www.deeplearningbook.org/contents/ml.html)  
     [[view]](https://mitpress.mit.edu/books/machine-learning-1) 2012. Murphy. _Machine Learning A Probabilistic Perspective_  
     [[view]](https://www.pearson.com/us/higher-education/program/Haykin-Neural-Networks-and-Learning-Machines-3rd-Edition/PGM320370.html) 2009. Haykin. _Neural Networks and Learning Machines. 3rd Edition_ [[view online]](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)  
-    [[view]](https://link.springer.com/book/9780387310732) 2006. Bishop. _Pattern Recognition and Machine Learning_ [[view from Microsoft]](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [[view Solutions from Microsoft]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)  
+    [[view]](https://link.springer.com/book/9780387310732) 2006. Bishop. _Pattern Recognition and Machine Learning_ [[view online]](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [[view solutions online]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)  
     [[view]](http://www.gaussianprocess.org/gpml/) 2006. Rasmussen. _Gaussian Processes for Machine Learning_  
     [[view]](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) 1997. Mitchell. _Machine Learning_  
   *  **Courses**  
