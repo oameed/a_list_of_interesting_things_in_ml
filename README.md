@@ -29,12 +29,12 @@
 * **_Online Certificates/Courses_**  
   
   * **Coursera**  
-    [[view]](https://www.coursera.org/specializations/machine-learning-introduction) _Machine Learning Specialization_  
-    [[view]](https://www.coursera.org/specializations/deep-learning) _Deep Learning Specialization_  
-    [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) _Generative Adversarial Networks (GANs) Specialization_  
-    [[view]](https://www.coursera.org/specializations/natural-language-processing) _Natural Language Processing Specialization_  
-    [[view]](https://www.coursera.org/specializations/reinforcement-learning) _Reinforcement Learning Specialization_  
-    [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) _TensorFlow Developer Professional Certificate_  
+    [[view]](https://www.coursera.org/specializations/machine-learning-introduction) **Stanford, DeepLearning.AI**. _Machine Learning Specialization_  
+    [[view]](https://www.coursera.org/specializations/deep-learning) **DeepLearning.AI**. _Deep Learning Specialization_  
+    [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) **DeepLearning.AI**. _Generative Adversarial Networks (GANs) Specialization_  
+    [[view]](https://www.coursera.org/specializations/natural-language-processing) **DeepLearning.AI**. _Natural Language Processing Specialization_  
+    [[view]](https://www.coursera.org/specializations/reinforcement-learning) **University of Alberta**. _Reinforcement Learning Specialization_  
+    [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) **DeepLearning.AI**. _TensorFlow Developer Professional Certificate_  
    
   * [**Google Machine Learning Education**](https://developers.google.com/machine-learning)  
     [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
