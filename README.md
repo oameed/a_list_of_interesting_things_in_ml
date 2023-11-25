@@ -177,3 +177,45 @@
   [[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
   [[view]](https://www.ai.gov/) _National AI Initiative_  
 
+## A Curated List of Publications
+
+[[view]](https://dl.acm.org/doi/10.1145/3448250) 2021. Bengio. _Deep Learning for AI_  
+[[view]](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) 2021. LeCun. _Self-supervised learning: The dark matter of intelligence_  
+[[view]](https://arxiv.org/abs/2010.11929) 2020. Dosovitskiy. _An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_ [[GitHub]](https://github.com/google-research/vision_transformer)  
+[[view]](https://arxiv.org/abs/2010.02502) 2020. Song. _Denoising Diffusion Implicit Models_ [[GitHub]](https://github.com/ermongroup/ddim) [[Keras]](https://keras.io/examples/generative/ddim/)  
+[[view]](https://arxiv.org/abs/2006.11239) 2020. Ho. _Denoising Diffusion Probabilistic Models_ [[GitHub]](https://github.com/hojonathanho/diffusion)  
+[[view]](https://arxiv.org/abs/1805.11604#) 2018. Santurkar. _How Does Batch Normalization Help Optimization?_  
+[[view]](https://arxiv.org/abs/1706.03762) 2017. Vaswani. _Attention Is All You Need_ [[GitHub]](https://github.com/tensorflow/tensor2tensor) [[TensorFlow]](https://www.tensorflow.org/text/tutorials/transformer)  
+[[view]](https://arxiv.org/abs/1704.00028) 2017. Gulrajani. _Improved Training of Wasserstein GANs_ [[GitHub]](https://github.com/igul222/improved_wgan_training)  
+[[view]](https://arxiv.org/abs/1702.08591) 2017. Balduzzi. _The Shattered Gradients Problem: If resnets are the answer, then what is the question?_  
+[[view]](https://arxiv.org/abs/1701.07875) 2017. Arjovsky. _Wasserstein GAN_ [[GitHub]](https://github.com/martinarjovsky/WassersteinGAN)  
+[[view]](https://arxiv.org/abs/1701.00160) 2016. Goodfellow. _NIPS 2016 Tutorial: Generative Adversarial Networks_   
+[[view]](https://arxiv.org/abs/1610.09585) 2016. Odena. _Conditional Image Synthesis With Auxiliary Classifier GANs_  
+[[view]](https://arxiv.org/abs/1607.06450) 2016. Ba. _Layer Normalization_   
+[[view]](https://arxiv.org/abs/1606.03498) 2016. Salimans. _Improved Techniques for Training GANs_ [[GitHub]](https://github.com/openai/improved-gan)  
+[[view]](https://arxiv.org/abs/1603.07285) 2016. Dumoulin. _A guide to convolution arithmetic for deep learning_ [[GitHub]](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)  
+[[view]](https://arxiv.org/abs/1512.03385) 2015. He. _Deep Residual Learning for Image Recognition_   
+[[view]](https://arxiv.org/abs/1511.06434) 2015. Radford. _Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks_ [[TensorFlow]](https://www.tensorflow.org/tutorials/generative/dcgan) [[Keras]](https://keras.io/guides/customizing_what_happens_in_fit/#wrapping-up-an-endtoend-gan-example)  
+[[view]](https://arxiv.org/abs/1508.04025) 2015. Luong. _Effective Approaches to Attention-based Neural Machine Translation_  
+[[view]](https://arxiv.org/abs/1506.04214) 2015. Shi. _Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting_   
+[[view]](https://www.nature.com/articles/nature14539) 2015. LeCun. _Deep learning_  
+[[view]](https://arxiv.org/abs/1505.04597) 2015. Ronneberger. _U-Net: Convolutional Networks for Biomedical Image Segmentation_   
+[[view]](https://github.com/hans/adversarial) 2015. Gauthier. _Conditional generative adversarial networks for convolutional face generation_  
+[[view]](https://arxiv.org/abs/1503.03585) 2015. Sohl-Dickstein. _Deep Unsupervised Learning using Nonequilibrium Thermodynamics_ [[GitHub]](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)  
+[[view]](https://arxiv.org/abs/1502.03167) 2015. Ioffe. _Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift_   
+[[view]](https://arxiv.org/abs/1502.01852) 2015. He. _Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification_   
+[[view]](https://arxiv.org/abs/1412.3555) 2014. Chung. _Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling_ [[GitHub]](https://github.com/jych/librnn)  
+[[view]](https://arxiv.org/abs/1411.1784) 2014. Mirza. _Conditional Generative Adversarial Nets_   
+[[view]](https://arxiv.org/abs/1409.3215) 2014. Sutskever. _Sequence to sequence learning with neural networks_  
+[[view]](https://arxiv.org/abs/1409.1556) 2014. Simonyan. _Very Deep Convolutional Networks for Large-Scale Image Recognition_   
+[[view]](https://arxiv.org/abs/1409.0473) 2014. Bahdanau. _Neural Machine Translation by Jointly Learning to Align and Translate_  
+[[view]](https://arxiv.org/abs/1406.2661) 2014. Goodfellow. _Generative Adversarial Networks_ [[GitHub]](https://github.com/goodfeli/adversarial)  
+[[view]](https://arxiv.org/abs/1406.1078) 2014. Cho. _Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation_  
+[[view]](https://proceedings.mlr.press/v15/glorot11a.html) 2011. Glorot. _Deep Sparse Rectifier Neural Networks_  
+[[view]](https://ieeexplore.ieee.org/document/5539957) 2010. Zeiler. _Deconvolutional networks_   
+[[view]](http://proceedings.mlr.press/v9/glorot10a.html) 2010. Glorot. _Understanding the difficulty of training deep feedforward neural networks_  
+[[view]](https://www.nowpublishers.com/article/Details/MAL-006) 2009. Bengio. _Learning Deep Architectures for AI_ [[view online]](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)  
+[[view]](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3) 1998. LeCun. _Efficient BackProp_  
+[[view]](https://direct.mit.edu/neco/article/9/8/1735/6109/Long-Short-Term-Memory) 1997. Hochreiter. _Long Short-Term Memory_  
+[[view]](https://www.nature.com/articles/323533a0) 1986. Rumelhart. _Learning representations by back-propagating errors_  
+
