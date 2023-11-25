@@ -122,6 +122,9 @@
 * **_TensorFlow_**  
   [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
 
+* **_Udacity_**  
+  [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
+
 ## Technical Interview Resources
 
 * **_Articles & Guides_**  
@@ -174,8 +177,3 @@
   [[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
   [[view]](https://www.ai.gov/) _National AI Initiative_  
 
-
-
-
-  * **Udacity**  
-    [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
