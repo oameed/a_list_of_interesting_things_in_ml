@@ -61,7 +61,7 @@
 * **_References: Deep Learning_**  
   * **Textbooks**  
     [[view]](https://udlbook.github.io/udlbook/) 2023. Prince. _Understanding Deep Learning_  
-    [[view]](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) 2023. Foster. _Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. 2nd Edition_  
+    [[view]](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) 2023. Foster. _Generative Deep Learning. 2nd Edition_  
     [[view]](https://www.pearson.com/us/higher-education/program/Ekman-Learning-Deep-Learning-Theory-and-Practice-of-Neural-Networks-Computer-Vision-Natural-Language-Processing-and-Transformers-Using-Tensor-Flow/PGM100003086745.html?tab=overview) 2022. Ekman. _Learning Deep Learning_  
     [[view]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/?_gl=1*127qhhj*_ga*OTIyNzg4NTYwLjE2OTA1OTAxMDk.*_ga_092EL089CH*MTY5MDU5MDEwOS4xLjEuMTY5MDU5MDE2Ny4yLjAuMA..) 2022. Geron. _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. 3rd Edition_  
     [[view]](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/) 2021. Moroney. _AI and Machine Learning for Coders_  
