@@ -35,7 +35,7 @@
 * **_Interesting Reads_**  
   [[view]](https://huyenchip.com/2023/10/10/multimodal.html) 2023. Huyen. _Multimodality and Large Multimodal Models (LMMs)_  
   [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
-  [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
+  [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
   [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
   [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
   [[view]](https://arxiv.org/abs/2108.07258) 2021. Bommasani. _On the Opportunities and Risks of Foundation Models_  
