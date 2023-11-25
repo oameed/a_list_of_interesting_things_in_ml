@@ -1,54 +1,11 @@
 # A List of Interesting Things in ML
 
-## Learning Machine Learning
+## Generative AI
 
-* **_A Review of Machine Learning_**  
-  _Supporting Repositories_  
-    [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) Statistical Learning with scikit-learn  
-    [[view]](https://gitlab.com/oameed/ml_deeplearning_tf2) Deep Learning with TensorFlow 2  
-    [[view]](https://gitlab.com/oameed/ml_deeplearning_pytorch) Deep Learning with PyTorch  
-    [[view]](https://gitlab.com/oameed/ml_deeplearning_matlab) Deep Learning with MATLAB's Deep Learning Toolbox  
-    [[view]](https://gitlab.com/oameed/ml_deeplearning_tf1x) Deep Learning with TensorFlow 1X  
-    [[view]](https://gitlab.com/oameed/ml_graphlearning_tensorflow) Graph Learning with TensorFlow  
-    [[view]](https://gitlab.com/oameed/ml_production_tfx) ML Production with TensorFlow Extended (TFX)  
-    [[view]](https://gitlab.com/oameed/ml_reinforcementlearning_tensorflow) Reinforcement Learning with TF-Agents/Gym/Reverb  
-
-* **_Topic-based Resources_**
-  
-  * **MLOps**  
-    [[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) 0000. **Coursera (DeepLearning.AI)**. _ML Engineering for Production (MLOps) Specialization_  
-    [[view]](https://huyenchip.com/mlops/) 0000. Huyen. _MLOps guide_  
-    [[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
-  
-  * **Generative AI**  
-    [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
-    [[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. **Microsoft Cloud Advocates**. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
-    [[view]](https://www.coursera.org/learn/generative-ai-with-llms) 2023. **Coursera (AWS, DeepLearning.AI)**. _Generative AI with Large Language Models_  
-    [[view]](https://www.cloudskillsboost.google/journeys/118) 2023. **Google Cloud Skills Boost**. _Generative AI learning path_ [[YouTube]](https://youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn&si=hoHDSAFJ-AE8pknI)  
-
-* **_Online Certificates/Courses_**  
-  
-  * **Coursera**  
-    [[view]](https://www.coursera.org/specializations/machine-learning-introduction) **Stanford, DeepLearning.AI**. _Machine Learning Specialization_  
-    [[view]](https://www.coursera.org/specializations/deep-learning) **DeepLearning.AI**. _Deep Learning Specialization_  
-    [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) **DeepLearning.AI**. _Generative Adversarial Networks (GANs) Specialization_  
-    [[view]](https://www.coursera.org/specializations/natural-language-processing) **DeepLearning.AI**. _Natural Language Processing Specialization_  
-    [[view]](https://www.coursera.org/specializations/reinforcement-learning) **University of Alberta**. _Reinforcement Learning Specialization_  
-    [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) **DeepLearning.AI**. _TensorFlow Developer Professional Certificate_  
-   
-  * [**Google Machine Learning Education**](https://developers.google.com/machine-learning)  
-    [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
-
-  * [**NVIDIA Deep Learning Institute**](https://www.nvidia.com/en-us/training/)  
-    [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
-  
-  * **TensorFlow**  
-    [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
-  
-  * **Udacity**  
-    [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
-
-## AI/ML Research
+[view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
+[[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. **Microsoft Cloud Advocates**. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)  
+[[view]](https://www.coursera.org/learn/generative-ai-with-llms) 2023. **Coursera (AWS, DeepLearning.AI)**. _Generative AI with Large Language Models_  
+[[view]](https://www.cloudskillsboost.google/journeys/118) 2023. **Google Cloud Skills Boost**. _Generative AI learning path_ [[YouTube]](https://youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn&si=hoHDSAFJ-AE8pknI)  
 
 * **_Large Language Models (LLMs)_**  
   
@@ -83,48 +40,95 @@
   * **META**  
     [[view]](https://emu-video.metademolab.com/) 2023.11. _Emu Video_ [[paper]](https://arxiv.org/abs/2311.10709)  
 
-## Interesting Reads
+* **_Interesting Reads_**  
+  [[view]](https://huyenchip.com/2023/10/10/multimodal.html) 2023. Huyen. _Multimodality and Large Multimodal Models (LMMs)_  
+  [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
+  [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
+  [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
+  [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
+  [[view]](https://arxiv.org/abs/2108.07258) 2021. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 
-[[view]](https://huyenchip.com/2023/10/10/multimodal.html) 2023. Huyen. _Multimodality and Large Multimodal Models (LMMs)_  
-[[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
-[[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
-[[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
-[[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
-[[view]](https://arxiv.org/abs/2108.07258) 2021. Bommasani. _On the Opportunities and Risks of Foundation Models_  
+## MLOps
 
-## AI/ML Labs/R&D
+[[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) 0000. **Coursera (DeepLearning.AI)**. _ML Engineering for Production (MLOps) Specialization_  
+[[view]](https://huyenchip.com/mlops/) 0000. Huyen. _MLOps guide_  
+[[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
 
-* **_Industry Labs/R&D_**  
-[[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
-[[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
-[[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
-[[view]](https://research.google/) Google Research  
-[[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
-[[view]](https://deepmind.com/) Google Deep Mind [[Blog]](https://deepmind.com/blog)  
-[[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI  
-[[view]](https://www.amazon.science/) Amazon Science  
-[[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
-[[view]](https://www.intel.com/content/www/us/en/research/overview.html) Intel AI Research [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html) [[News]](https://www.intel.com/content/www/us/en/newsroom/artificial-intelligence.html?filters=[-7300596454,-8111542043]#gs.6uup8x)  
-[[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
-[[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
-[[view]](https://research.netflix.com/) NETFLIX Research  
-[[view]](https://www.salesforceairesearch.com/) Salesforce AI Research  
-[[view]](https://www.nvidia.com/en-us/research/) NVIDIA Research  
-[[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
-[[view]](https://www.ericsson.com/en/ai) Ericsson AI  
-[[view]](https://www.amd.com/en/corporate/research.html) AMD Research  
+## A Review of Machine Learning
 
-* **_University Labs/R&D_**  
-[[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
-[[view]](https://ai.stanford.edu/) Stanford AI Lab  
-[[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
-[[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
+* **_Supporting Repositories_**  
+  [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) Statistical Learning with scikit-learn  
+  [[view]](https://gitlab.com/oameed/ml_deeplearning_tf2) Deep Learning with TensorFlow 2  
+  [[view]](https://gitlab.com/oameed/ml_deeplearning_pytorch) Deep Learning with PyTorch  
+  [[view]](https://gitlab.com/oameed/ml_deeplearning_matlab) Deep Learning with MATLAB's Deep Learning Toolbox  
+  [[view]](https://gitlab.com/oameed/ml_deeplearning_tf1x) Deep Learning with TensorFlow 1X  
+  [[view]](https://gitlab.com/oameed/ml_graphlearning_tensorflow) Graph Learning with TensorFlow  
+  [[view]](https://gitlab.com/oameed/ml_production_tfx) ML Production with TensorFlow Extended (TFX)  
+  [[view]](https://gitlab.com/oameed/ml_reinforcementlearning_tensorflow) Reinforcement Learning with TF-Agents/Gym/Reverb  
+  
+* **_References: Deep Learning_**  
+  * **Textbooks**  
+    [[view]](https://udlbook.github.io/udlbook/) 2023. Prince. _Understanding Deep Learning_  
+    [[view]](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) 2023. Foster. _Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. 2nd Edition_  
+    [[view]](https://www.pearson.com/us/higher-education/program/Ekman-Learning-Deep-Learning-Theory-and-Practice-of-Neural-Networks-Computer-Vision-Natural-Language-Processing-and-Transformers-Using-Tensor-Flow/PGM100003086745.html?tab=overview) 2022. Ekman. _Learning Deep Learning_  
+    [[view]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/?_gl=1*127qhhj*_ga*OTIyNzg4NTYwLjE2OTA1OTAxMDk.*_ga_092EL089CH*MTY5MDU5MDEwOS4xLjEuMTY5MDU5MDE2Ny4yLjAuMA..) 2022. Geron. _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. 3rd Edition_  
+    [[view]](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/) 2021. Moroney. _AI and Machine Learning for Coders_  
+    [[view]](https://www.oreilly.com/library/view/learning-tensorflow/9781491978504/) 2017. Hope. _Learning TensorFlow_  
+    [[view]](https://www.deeplearningbook.org/) 2016. Goodfellow. _Deep Learning_  
+    [[view]](https://www.pearson.com/us/higher-education/program/Haykin-Neural-Networks-and-Learning-Machines-3rd-Edition/PGM320370.html) 2009. Haykin. _Neural Networks and Learning Machines. 3rd Edition_ [[view online]](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)  
+  * **Courses**  
+    [[view]](https://web.stanford.edu/class/cs224n/) 2023. Manning. **Stanford**. _CS224n: NLP with Deep Learning_  
+    [[view]](http://introtodeeplearning.com/) 2023. Amini. **MIT**. _6.S191: Introduction to Deep Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)  
+    [[view]](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) 2022. Lippe. **University of Amsterdam**. _Deep Learning Tutorials_ [[YouTube]](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)  
+    [[view]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/) 2021. Manning. **Stanford**. _CS224n: NLP with Deep Learning_ [[YouTube]](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)  
+    [[view]](https://cds.nyu.edu/deep-learning/) 2021. LeCun. **NYU**. _LeCun’s Deep Learning Course at CDS_ [[YouTube]](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)  
+    [[view]](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2019/www.f19/) 2019. Raj. **CMU**. _11-785: Introduction to Deep Learning_ [[YouTube]](https://www.youtube.com/playlist?app=desktop&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj)  
+    [[view]](https://cs230.stanford.edu/) 2018. Ng. **Stanford**. _CS230: Deep Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)  
+    [[view]](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) 2017. Blunsom. **Oxford**. _Deep Learning for Natural Language Processing_ [[GitHub]](https://github.com/oxford-cs-deepnlp-2017/lectures) [[YouTube]](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)  
+    [[view]](http://cs231n.stanford.edu/2017/) 2017. Li. **Stanford**. _CS231n: CNNs for Visual Recognition_ [[YouTube]](https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
+    [view] 2016. Karpathy. **Stanford**. _CS231n: CNNs for Visual Recognition_ [[YouTube]](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)  
+    [[view]](https://www.cs.toronto.edu/~hinton/) 2012. Hinton. **Coursera**.  _Neural Networks for Machine Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)    
 
-* **_Policy/Regulation/AI Governance_**  
-[[view]](https://hai.stanford.edu/) _The Institute for Human-Centered AI (HAI)_  
-[[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
-[[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
-[[view]](https://www.ai.gov/) _National AI Initiative_  
+* **_References: Statistical Learning_**  
+  * **Textbooks**  
+    [[view]](https://bayesoptbook.com/) 2023. Garnett. _Bayesian Optimization_  
+    [[view]](https://www.statlearning.com/) 2021. James. Witten. _An Introduction to Statistical Learning. 2nd Edition_  
+    [[view]](https://us.artechhouse.com/Machine-Learning-Applications-in-Electromagnetics-and-Antenna-Array-Processing-P2104.aspx) 2021. Martinez-Ramon. _Machine Learning Applications in Electromagnetics and Antenna Array Processing_  
+    [[view]](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html) 2020. Russell. Norvig. _Artificial Intelligence: A Modern Approach. 4th Edition_  
+    [[view]](https://hastie.su.domains/ElemStatLearn/) 2017. Hastie. Tibshirani. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction. 2nd Edition_  
+    [view] 2016. Goodfellow. _Deep Learning_ [[Chapter 5: Machine Learning Basics]](https://www.deeplearningbook.org/contents/ml.html)  
+    [[view]](https://mitpress.mit.edu/books/machine-learning-1) 2012. Murphy. _Machine Learning A Probabilistic Perspective_  
+    [[view]](https://www.pearson.com/us/higher-education/program/Haykin-Neural-Networks-and-Learning-Machines-3rd-Edition/PGM320370.html) 2009. Haykin. _Neural Networks and Learning Machines. 3rd Edition_ [[view online]](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)  
+    [[view]](https://link.springer.com/book/9780387310732) 2006. Bishop. _Pattern Recognition and Machine Learning_ [[view from Microsoft]](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [[view Solutions from Microsoft]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)  
+    [[view]](http://www.gaussianprocess.org/gpml/) 2006. Rasmussen. _Gaussian Processes for Machine Learning_  
+    [[view]](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) 1997. Mitchell. _Machine Learning_  
+  *  **Courses**  
+     [[view]](https://ee104.stanford.edu/lectures) 2022. Lall. Boyd. **Stanford**. _EE104/CME107: Introduction to Machine Learning_  
+     [[view]](http://www.cs.cornell.edu/courses/cs4780/2021fa/) 2021. Damle. Weinberger. **Cornell**. _CS 4/5780: Introduction to Machine Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)   
+     [[view]](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) 2020. Muller. **Columbia**. _COMS W4995: Applied Machine Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)  
+     [view] 2018. Ng. **Stanford**. _CS229: Machine Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) [[Cheatsheets by Amidi]](https://stanford.edu/~shervine/teaching/cs-229/)  
+     [[view]](https://people.cs.umass.edu/~akshay/courses/cs690m/) 2017. Krishnamurthy. **UMASS**. _CMPSCI 690M: Machine Learning Theory_  
+     [[view]](http://www.cnel.ufl.edu/courses/EEL6814/EEL6814.php) 2016. Principe. **UFL**. _EEL 6814: Neural Networks for Signal Processing_  
+     [[view]](https://people.cs.umass.edu/~domke/courses/sml2011/) 2011. Domke. **UMASS**. _Statistical Machine Learning_  
+
+## Online Certificates
+
+* **_Coursera_**  
+  [[view]](https://www.coursera.org/specializations/machine-learning-introduction) **Stanford, DeepLearning.AI**. _Machine Learning Specialization_  
+  [[view]](https://www.coursera.org/specializations/deep-learning) **DeepLearning.AI**. _Deep Learning Specialization_  
+  [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) **DeepLearning.AI**. _Generative Adversarial Networks (GANs) Specialization_  
+  [[view]](https://www.coursera.org/specializations/natural-language-processing) **DeepLearning.AI**. _Natural Language Processing Specialization_  
+  [[view]](https://www.coursera.org/specializations/reinforcement-learning) **University of Alberta**. _Reinforcement Learning Specialization_  
+  [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) **DeepLearning.AI**. _TensorFlow Developer Professional Certificate_  
+   
+* [**_Google Machine Learning Education_**](https://developers.google.com/machine-learning)  
+  [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
+
+* [**_NVIDIA Deep Learning Institute_**](https://www.nvidia.com/en-us/training/)  
+  [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
+  
+* **_TensorFlow_**  
+  [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
 
 ## Technical Interview Resources
 
@@ -144,4 +148,42 @@
   [[view]](Docs/0000.00.%20ineuron.ai.%20Data%20Science%20Interview%20Questions.pdf) 0000.00. ineuron.ai. _Data Science Interview Questions_ [[ineuron.ai]](https://ineuron.ai/)  
   [[view]](https://www.kaggle.com/general/300249) 0000.00. Yousef. _Data Science Interviews Q&A_
 
-  
+## AI/ML Labs/R&D
+
+* **_Industry Labs/R&D_**  
+  [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
+  [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
+  [[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
+  [[view]](https://research.google/) Google Research  
+  [[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
+  [[view]](https://deepmind.com/) Google Deep Mind [[Blog]](https://deepmind.com/blog)  
+  [[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI  
+  [[view]](https://www.amazon.science/) Amazon Science  
+  [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
+  [[view]](https://www.intel.com/content/www/us/en/research/overview.html) Intel AI Research [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html) [[News]](https://www.intel.com/content/www/us/en/newsroom/artificial-intelligence.html?filters=[-7300596454,-8111542043]#gs.6uup8x)  
+  [[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
+  [[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
+  [[view]](https://research.netflix.com/) NETFLIX Research  
+  [[view]](https://www.salesforceairesearch.com/) Salesforce AI Research  
+  [[view]](https://www.nvidia.com/en-us/research/) NVIDIA Research  
+  [[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
+  [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
+  [[view]](https://www.amd.com/en/corporate/research.html) AMD Research  
+
+* **_University Labs/R&D_**  
+  [[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
+  [[view]](https://ai.stanford.edu/) Stanford AI Lab  
+  [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
+  [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
+
+* **_Policy/Regulation/AI Governance_**  
+  [[view]](https://hai.stanford.edu/) _The Institute for Human-Centered AI (HAI)_  
+  [[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
+  [[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
+  [[view]](https://www.ai.gov/) _National AI Initiative_  
+
+
+
+
+  * **Udacity**  
+    [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
