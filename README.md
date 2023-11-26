@@ -25,6 +25,40 @@
   [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
   [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
+## AI/ML Labs/R&D
+
+* **_Industry Labs/R&D_**  
+  [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
+  [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
+  [[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
+  [[view]](https://research.google/) Google Research  
+  [[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
+  [[view]](https://deepmind.com/) Google Deep Mind [[Blog]](https://deepmind.com/blog)  
+  [[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI  
+  [[view]](https://www.amazon.science/) Amazon Science  
+  [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
+  [[view]](https://www.intel.com/content/www/us/en/research/overview.html) Intel AI Research [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html) [[News]](https://www.intel.com/content/www/us/en/newsroom/artificial-intelligence.html?filters=[-7300596454,-8111542043]#gs.6uup8x)  
+  [[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
+  [[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
+  [[view]](https://research.netflix.com/) NETFLIX Research  
+  [[view]](https://www.salesforceairesearch.com/) Salesforce AI Research  
+  [[view]](https://www.nvidia.com/en-us/research/) NVIDIA Research  
+  [[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
+  [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
+  [[view]](https://www.amd.com/en/corporate/research.html) AMD Research  
+
+* **_University Labs/R&D_**  
+  [[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
+  [[view]](https://ai.stanford.edu/) Stanford AI Lab  
+  [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
+  [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
+
+* **_Policy/Regulation/AI Governance_**  
+  [[view]](https://hai.stanford.edu/) _The Institute for Human-Centered AI (HAI)_  
+  [[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
+  [[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
+  [[view]](https://www.ai.gov/) _National AI Initiative_  
+
 ## Generative AI
 
 [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
@@ -103,80 +137,6 @@
      [[view]](http://www.cnel.ufl.edu/courses/EEL6814/EEL6814.php) 2016. Principe. **UFL**. _EEL 6814: Neural Networks for Signal Processing_  
      [[view]](https://people.cs.umass.edu/~domke/courses/sml2011/) 2011. Domke. **UMASS**. _Statistical Machine Learning_  
 
-## Online Certificates
-
-* **_Coursera_**  
-  [[view]](https://www.coursera.org/specializations/machine-learning-introduction) **Stanford, DeepLearning.AI**. _Machine Learning Specialization_  
-  [[view]](https://www.coursera.org/specializations/deep-learning) **DeepLearning.AI**. _Deep Learning Specialization_  
-  [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) **DeepLearning.AI**. _Generative Adversarial Networks (GANs) Specialization_  
-  [[view]](https://www.coursera.org/specializations/natural-language-processing) **DeepLearning.AI**. _Natural Language Processing Specialization_  
-  [[view]](https://www.coursera.org/specializations/reinforcement-learning) **University of Alberta**. _Reinforcement Learning Specialization_  
-  [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) **DeepLearning.AI**. _TensorFlow Developer Professional Certificate_  
-   
-* [**_Google Machine Learning Education_**](https://developers.google.com/machine-learning)  
-  [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
-
-* [**_NVIDIA Deep Learning Institute_**](https://www.nvidia.com/en-us/training/)  
-  [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
-  
-* **_TensorFlow_**  
-  [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
-
-* **_Udacity_**  
-  [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
-
-## Technical Interview Resources
-
-* **_Articles & Guides_**  
-  [[view]](https://huyenchip.com/ml-interviews-book/) 2022.08. Huyen. _Introduction to Machine Learning Interviews Book_ [[GitHub]](https://github.com/chiphuyen/ml-interviews-book)  
-  [[view]](https://huyenchip.com/machine-learning-systems-design/toc.html) 2022.06. Huyen. _Machine Learning Interviews: ML Systems Design_ [[GitHub]](https://github.com/chiphuyen/machine-learning-systems-design)  
-  [[view]](Docs/2022.03.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2022.03. Lahiri. _Preperation for ML/Data Science Interviews_ [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6914926733280309248/)  
-  [[view]](Docs/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Lahiri. _Preperation for ML/Data Science Interviews_ [[LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
-  [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
-  [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_  
-
-* **_Q&A_**  
-  [[view]](Docs/2022.04.%20Hossny.%2050%20Data%20Science%20Interview%20Questions.pdf) 2022.04. Hossny. _50 Data Science Interview Questions_ [[Medium]](https://hany-hossny.medium.com/50-data-science-interview-questions-d2f1d82fb4d8)  
-  [[view]](https://arxiv.org/abs/2201.00650) 2021.12. Kashani. _Deep Learning Interviews: Hundreds of fully solved job interview questions_ [[GitHub]](https://github.com/BoltzmannEntropy/interviews.ai)  
-  [[view]](Docs/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Anwar. _Cheat Sheets for ML and Data Science_ [[Anwar's Website]](https://sites.google.com/view/datascience-cheat-sheets)  
-  [[view]](Docs/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Nouri. _800 Q&A for Data Science_  
-  [[view]](Docs/0000.00.%20ineuron.ai.%20Data%20Science%20Interview%20Questions.pdf) 0000.00. ineuron.ai. _Data Science Interview Questions_ [[ineuron.ai]](https://ineuron.ai/)  
-  [[view]](https://www.kaggle.com/general/300249) 0000.00. Yousef. _Data Science Interviews Q&A_
-
-## AI/ML Labs/R&D
-
-* **_Industry Labs/R&D_**  
-  [[view]](https://machinelearning.apple.com/) Machine Learning Research at Apple  
-  [[view]](https://www.microsoft.com/en-us/research/) Microsoft Research [[AI4Science]](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)  
-  [[view]](https://openai.com/) Open AI [[Blog]](https://openai.com/blog/)  
-  [[view]](https://research.google/) Google Research  
-  [[view]](https://ai.google/) Google AI [[Blog]](https://ai.googleblog.com/)  
-  [[view]](https://deepmind.com/) Google Deep Mind [[Blog]](https://deepmind.com/blog)  
-  [[view]](https://about.att.com/sites/labs/our-work/analytics-ai-automation) AT&T Labs AI  
-  [[view]](https://www.amazon.science/) Amazon Science  
-  [[view]](https://ai.facebook.com/) META AI [[Blog]](https://ai.facebook.com/blog/)  
-  [[view]](https://www.intel.com/content/www/us/en/research/overview.html) Intel AI Research [[Blog]](https://www.intel.com/content/www/us/en/artificial-intelligence/blog.html) [[News]](https://www.intel.com/content/www/us/en/newsroom/artificial-intelligence.html?filters=[-7300596454,-8111542043]#gs.6uup8x)  
-  [[view]](https://www.research.ibm.com/artificial-intelligence/) IBM AI  
-  [[view]](https://www.qualcomm.com/research/artificial-intelligence) Qualcomm AI  
-  [[view]](https://research.netflix.com/) NETFLIX Research  
-  [[view]](https://www.salesforceairesearch.com/) Salesforce AI Research  
-  [[view]](https://www.nvidia.com/en-us/research/) NVIDIA Research  
-  [[view]](http://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/machine-learning-systems/) Nokia Bell Labs  
-  [[view]](https://www.ericsson.com/en/ai) Ericsson AI  
-  [[view]](https://www.amd.com/en/corporate/research.html) AMD Research  
-
-* **_University Labs/R&D_**  
-  [[view]](https://blog.ml.cmu.edu/) CMU ML Blog  
-  [[view]](https://ai.stanford.edu/) Stanford AI Lab  
-  [[view]](https://ml4sci.lbl.gov/) Berkeley Lab's ML for Science  
-  [[view]](https://www.ai4science.caltech.edu/) AI4Science at CALTECH  
-
-* **_Policy/Regulation/AI Governance_**  
-  [[view]](https://hai.stanford.edu/) _The Institute for Human-Centered AI (HAI)_  
-  [[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
-  [[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
-  [[view]](https://www.ai.gov/) _National AI Initiative_  
-
 ## A Curated List of Publications
 
 [[view]](https://dl.acm.org/doi/10.1145/3448250) 2021. Bengio. _Deep Learning for AI_  
@@ -218,4 +178,44 @@
 [[view]](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3) 1998. LeCun. _Efficient BackProp_  
 [[view]](https://direct.mit.edu/neco/article/9/8/1735/6109/Long-Short-Term-Memory) 1997. Hochreiter. _Long Short-Term Memory_  
 [[view]](https://www.nature.com/articles/323533a0) 1986. Rumelhart. _Learning representations by back-propagating errors_  
+
+## Online Certificates
+
+* **_Coursera_**  
+  [[view]](https://www.coursera.org/specializations/machine-learning-introduction) **Stanford, DeepLearning.AI**. _Machine Learning Specialization_  
+  [[view]](https://www.coursera.org/specializations/deep-learning) **DeepLearning.AI**. _Deep Learning Specialization_  
+  [[view]](https://www.coursera.org/specializations/generative-adversarial-networks-gans) **DeepLearning.AI**. _Generative Adversarial Networks (GANs) Specialization_  
+  [[view]](https://www.coursera.org/specializations/natural-language-processing) **DeepLearning.AI**. _Natural Language Processing Specialization_  
+  [[view]](https://www.coursera.org/specializations/reinforcement-learning) **University of Alberta**. _Reinforcement Learning Specialization_  
+  [[view]](https://www.coursera.org/professional-certificates/tensorflow-in-practice) **DeepLearning.AI**. _TensorFlow Developer Professional Certificate_  
+   
+* [**_Google Machine Learning Education_**](https://developers.google.com/machine-learning)  
+  [[view]](https://developers.google.com/machine-learning/crash-course) _Machine Learning Crash Course with TensorFlow APIs_
+
+* [**_NVIDIA Deep Learning Institute_**](https://www.nvidia.com/en-us/training/)  
+  [[view]](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) _Fundamentals of Deep Learning_  
+  
+* **_TensorFlow_**  
+  [[view]](https://www.tensorflow.org/certificate) _TensorFlow Developer Certificate_  
+
+* **_Udacity_**  
+  [[view]](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) _Intro to TensorFlow for Deep Learning_  
+
+## Technical Interview Resources
+
+* **_Articles & Guides_**  
+  [[view]](https://huyenchip.com/ml-interviews-book/) 2022.08. Huyen. _Introduction to Machine Learning Interviews Book_ [[GitHub]](https://github.com/chiphuyen/ml-interviews-book)  
+  [[view]](https://huyenchip.com/machine-learning-systems-design/toc.html) 2022.06. Huyen. _Machine Learning Interviews: ML Systems Design_ [[GitHub]](https://github.com/chiphuyen/machine-learning-systems-design)  
+  [[view]](Docs/2022.03.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2022.03. Lahiri. _Preperation for ML/Data Science Interviews_ [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6914926733280309248/)  
+  [[view]](Docs/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Lahiri. _Preperation for ML/Data Science Interviews_ [[LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
+  [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
+  [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_  
+
+* **_Q&A_**  
+  [[view]](Docs/2022.04.%20Hossny.%2050%20Data%20Science%20Interview%20Questions.pdf) 2022.04. Hossny. _50 Data Science Interview Questions_ [[Medium]](https://hany-hossny.medium.com/50-data-science-interview-questions-d2f1d82fb4d8)  
+  [[view]](https://arxiv.org/abs/2201.00650) 2021.12. Kashani. _Deep Learning Interviews: Hundreds of fully solved job interview questions_ [[GitHub]](https://github.com/BoltzmannEntropy/interviews.ai)  
+  [[view]](Docs/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Anwar. _Cheat Sheets for ML and Data Science_ [[Anwar's Website]](https://sites.google.com/view/datascience-cheat-sheets)  
+  [[view]](Docs/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Nouri. _800 Q&A for Data Science_  
+  [[view]](Docs/0000.00.%20ineuron.ai.%20Data%20Science%20Interview%20Questions.pdf) 0000.00. ineuron.ai. _Data Science Interview Questions_ [[ineuron.ai]](https://ineuron.ai/)  
+  [[view]](https://www.kaggle.com/general/300249) 0000.00. Yousef. _Data Science Interviews Q&A_  
 
