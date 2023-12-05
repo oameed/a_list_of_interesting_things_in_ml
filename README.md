@@ -26,7 +26,7 @@
   [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
 * **_Stability AI_**  
-[[view]](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) 2023.11. _Stable Video Diffusion_ [[paper]](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf)  
+[[view]](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) 2023.11. _Stable Video Diffusion_ [[paper]](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf) [[GitHub]](https://github.com/Stability-AI/generative-models)  
 
 
 ## AI/ML Labs/R&D
