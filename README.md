@@ -62,6 +62,7 @@
 ## Generative AI
 
 [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
+[[view]](https://www.coursera.org/learn/generative-ai-for-everyone?utm_campaign=genai4e-launch&utm_medium=institutions&utm_source=deeplearning-ai) 2023. **DeepLearning.AI**. _Generative AI for Everyone_  
 [[view]](https://microsoft.github.io/generative-ai-for-beginners/#/) 2023. **Microsoft Cloud Advocates**. _Generative AI for Beginners - A Course_ [[GitHub]](https://github.com/microsoft/generative-ai-for-beginners) [[YouTube]](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl)    
 [[view]](https://huyenchip.com/2023/10/10/multimodal.html) 2023. Huyen. _Multimodality and Large Multimodal Models (LMMs)_  
 [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
