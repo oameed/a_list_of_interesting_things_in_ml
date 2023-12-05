@@ -67,6 +67,7 @@
 [[view]](https://www.nature.com/articles/d41586-023-02361-7) 2023. Biever. _ChatGPT broke the Turing test — the race is on for new ways to assess AI_  
 [[view]](https://www.coursera.org/learn/generative-ai-with-llms) 2023. **Coursera (AWS, DeepLearning.AI)**. _Generative AI with Large Language Models_  
 [[view]](https://www.cloudskillsboost.google/journeys/118) 2023. **Google Cloud Skills Boost**. _Generative AI learning path_ [[YouTube]](https://youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn&si=hoHDSAFJ-AE8pknI)  
+[[view]](https://huyenchip.com/2023/05/02/rlhf.html). 2023. Huyen. _RLHF: Reinforcement Learning from Human Feedback_  
 [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
 [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
 [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
