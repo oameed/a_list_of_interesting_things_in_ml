@@ -25,6 +25,10 @@
   [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
   [[view]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) 2023.02. _LLaMA_ [[paper]](https://arxiv.org/abs/2302.13971) [[GitHub]](https://github.com/facebookresearch/llama)  
 
+* **_Stability AI_**  
+[[view]](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) 2023.11. _Stable Video Diffusion_ [[paper]](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf)  
+
+
 ## AI/ML Labs/R&D
 
 * **_Industry Labs/R&D_**  
