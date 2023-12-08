@@ -21,7 +21,7 @@
   [[view]](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 2018.10. _BERT_ [[paper]](https://arxiv.org/abs/1810.04805) [[GitHub]](https://github.com/google-research/bert)
 
 * **_META_**  
-  [[view]](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=fair10&utm_content=link) 2023.11. _Audiobox_ [[paper]]()  
+  [[view]](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=fair10&utm_content=link) 2023.11. _Audiobox_  
   [[view]](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/) 2023.11. _Emu Video_ [[paper]](https://arxiv.org/abs/2311.10709)  
   [[view]](https://ai.meta.com/llama/?trk=public_post-text) 2023.07. _LLaMA 2_ [[paper]](https://arxiv.org/abs/2307.09288) [[GitHub]](https://github.com/facebookresearch/llama) [[how-to guide]](https://ai.meta.com/llama/get-started/)  
   [[view]](https://ai.meta.com/blog/voicebox-generative-ai-model-speech/) 2023.06. _Voicebox_ [[paper]](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/354636794_599417672291955_3799385851435258804_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=BRg0LyP2HroAX9ymUHp&_nc_ht=scontent-lax3-2.xx&oh=00_AfBx96StoG3B9Nrge7zdc7rqhke_JaTplTb8NXSvUq7NDw&oe=6577E6B1)  
