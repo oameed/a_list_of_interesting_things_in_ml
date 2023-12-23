@@ -127,9 +127,8 @@
 
 * **_References: Statistical Learning_**  
   * **Textbooks**  
-    [[view]](https://bayesoptbook.com/) 2023. Garnett. _Bayesian Optimization_  
+    [view] 2023. Garnett. _Bayesian Optimization_ [[Chapter 2: Gaussian Processes]](https://bayesoptbook.com/)  
     [[view]](https://www.statlearning.com/) 2021. James. Witten. _An Introduction to Statistical Learning. 2nd Edition_  
-    [[view]](https://us.artechhouse.com/Machine-Learning-Applications-in-Electromagnetics-and-Antenna-Array-Processing-P2104.aspx) 2021. Martinez-Ramon. _ML Applications in EM and Antenna Array Processing_  
     [[view]](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html) 2020. Russell. Norvig. _Artificial Intelligence: A Modern Approach. 4th Edition_  
     [[view]](https://hastie.su.domains/ElemStatLearn/) 2017. Hastie. Tibshirani. _The Elements of Statistical Learning. 2nd Edition_  
     [view] 2016. Goodfellow. _Deep Learning_ [[Chapter 5: Machine Learning Basics]](https://www.deeplearningbook.org/contents/ml.html)  
