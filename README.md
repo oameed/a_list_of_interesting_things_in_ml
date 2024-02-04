@@ -14,6 +14,7 @@
 
 * **_Google/DeepMind_**  
   [[view]](https://lumiere-video.github.io/) 2024.01. _Lumiere_ [[paper]](https://arxiv.org/abs/2401.12945)  
+  [[view]](https://deepmind.google/technologies/imagen-2/) _Imagen 2_  
   [[view]](https://blog.google/technology/ai/google-gemini-ai/#sundar-note) 2023.12. _Gemini_ [[paper]](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)  
   [[view]](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/?utm_source=linkedin&utm_medium=social&utm_campaign=GraphCast/) 2023.11. _GraphCast_ [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[GitHub]](https://github.com/google-deepmind/graphcast) [[charts]](https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850?base_time=202311160000&projection=opencharts_europe&valid_time=202311160600)  
   [[view]](https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-palm-2-ai-large-language-model/amp/) 2023.05. _PaLM 2_ [[paper]](https://ai.google/static/documents/palm2techreport.pdf)  
