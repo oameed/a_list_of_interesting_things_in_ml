@@ -3,6 +3,7 @@
 ## Interesting AI Models
 
 * **_OpenAI_**  
+  [[view]](https://openai.com/sora) 2024.02. _Sora_ [[paper]](https://openai.com/research/video-generation-models-as-world-simulators)  
   [[view]](https://openai.com/dall-e-3) 2023.09. _DALL·E 3_  
   [[view]](https://openai.com/product/gpt-4) 2023.03. _GPT-4_ [[paper]](https://arxiv.org/abs/2303.08774)      
   [[view]](https://openai.com/product/dall-e-2) 2022.04. _DALL·E 2_ [[paper]](https://arxiv.org/abs/2204.06125)  
