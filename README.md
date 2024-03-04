@@ -151,6 +151,7 @@
 
 ## A Curated List of Publications
 
+[[view]](https://arxiv.org/abs/2212.09748) 2022. Peebles. _Scalable Diffusion Models with Transformers_ [[official page]](https://www.wpeebles.com/DiT.html)  
 [[view]](https://dl.acm.org/doi/10.1145/3448250) 2021. Bengio. _Deep Learning for AI_  
 [[view]](https://arxiv.org/abs/2010.11929) 2020. Dosovitskiy. _An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_ [[GitHub]](https://github.com/google-research/vision_transformer)  
 [[view]](https://arxiv.org/abs/2010.02502) 2020. Song. _Denoising Diffusion Implicit Models_ [[GitHub]](https://github.com/ermongroup/ddim) [[Keras]](https://keras.io/examples/generative/ddim/)  
