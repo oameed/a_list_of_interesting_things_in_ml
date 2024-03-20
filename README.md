@@ -72,6 +72,7 @@
 
 ## Generative AI
 
+[[view]](https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/) 2024. Kranen. _Applying Mixture of Experts in LLM Architectures_  
 [[view]](https://developer.nvidia.com/blog/generative-ai-research-spotlight-demystifying-diffusion-based-models) 2023. Aittala. _Generative AI Research Spotlight: Demystifying Diffusion-Based Models_  
 [view] 2023. Karpathy. _Intro to Large Language Models_ [[YouTube]](https://youtu.be/zjkBMFhNj_g?si=6YEiZdQuUHsqvfCa)  
 [[view]](https://www.coursera.org/learn/generative-ai-for-everyone?utm_campaign=genai4e-launch&utm_medium=institutions&utm_source=deeplearning-ai) 2023. **DeepLearning.AI**. _Generative AI for Everyone_  
