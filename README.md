@@ -88,12 +88,6 @@
 [[view]](https://arxiv.org/abs/2108.07258) 2021. Bommasani. _On the Opportunities and Risks of Foundation Models_  
 [[view]](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) 2021. LeCun. _Self-supervised learning: The dark matter of intelligence_  
 
-## MLOps
-
-[[view]](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) 0000. **Coursera (DeepLearning.AI)**. _ML Engineering for Production (MLOps) Specialization_  
-[[view]](https://huyenchip.com/mlops/) 0000. Huyen. _MLOps guide_  
-[[view]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) 2022. Huyen. _Designing Machine Learning Systems_  
-
 ## A Review of Machine Learning
 
 * **_Supporting Repositories_**  
