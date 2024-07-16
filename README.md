@@ -93,6 +93,7 @@
   [[view]](https://arxiv.org/abs/1409.0473) 2014. Bahdanau. _Neural Machine Translation by Jointly Learning to Align and Translate_  
   [[view]](https://arxiv.org/abs/1406.2661) 2014. Goodfellow. _Generative Adversarial Networks_ [[GitHub]](https://github.com/goodfeli/adversarial)  
   [[view]](https://arxiv.org/abs/1406.1078) 2014. Cho. _Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation_  
+  [[view]](https://jmlr.org/papers/v15/srivastava14a.html) 2014. Srivastava. _Dropout: A Simple Way to Prevent Neural Networks from Overfitting_  
   [[view]](https://proceedings.mlr.press/v15/glorot11a.html) 2011. Glorot. _Deep Sparse Rectifier Neural Networks_  
   [[view]](https://ieeexplore.ieee.org/document/5539957) 2010. Zeiler. _Deconvolutional networks_   
   [[view]](http://proceedings.mlr.press/v9/glorot10a.html) 2010. Glorot. _Understanding the difficulty of training deep feedforward neural networks_  
@@ -101,7 +102,7 @@
   [[view]](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3) 1998. LeCun. _Efficient BackProp_  
   [[view]](https://direct.mit.edu/neco/article/9/8/1735/6109/Long-Short-Term-Memory) 1997. Hochreiter. _Long Short-Term Memory_  
   [[view]](https://www.nature.com/articles/323533a0) 1986. Rumelhart. _Learning representations by back-propagating errors_  
-
+    
 * **_Online Certificates_**  
   * **_Coursera_**  
     [[view]](https://www.coursera.org/specializations/machine-learning-introduction) **Stanford, DeepLearning.AI**. _Machine Learning Specialization_  
