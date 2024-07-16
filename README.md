@@ -97,6 +97,7 @@
   [[view]](https://ieeexplore.ieee.org/document/5539957) 2010. Zeiler. _Deconvolutional networks_   
   [[view]](http://proceedings.mlr.press/v9/glorot10a.html) 2010. Glorot. _Understanding the difficulty of training deep feedforward neural networks_  
   [[view]](https://www.nowpublishers.com/article/Details/MAL-006) 2009. Bengio. _Learning Deep Architectures for AI_ [[view online]](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)  
+  [[view]](https://ieeexplore.ieee.org/document/726791) 1998. Lecun. _Gradient-based learning applied to document recognition_ [[view online]](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)  
   [[view]](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3) 1998. LeCun. _Efficient BackProp_  
   [[view]](https://direct.mit.edu/neco/article/9/8/1735/6109/Long-Short-Term-Memory) 1997. Hochreiter. _Long Short-Term Memory_  
   [[view]](https://www.nature.com/articles/323533a0) 1986. Rumelhart. _Learning representations by back-propagating errors_  
