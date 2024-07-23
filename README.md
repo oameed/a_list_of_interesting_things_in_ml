@@ -1,6 +1,8 @@
 # A List of Interesting Things in AI/ML
 
-## A Review of Machine Learning [[Presentation]](https://archive.org/details/a-review-of-machine-learning) [[Derivation Tables]](https://archive.org/details/a-review-of-machine-learning-derivation-tables)  
+## A Review of Machine Learning  
+
+* **_A Review of Machine Learning_** [[Presentation]](https://archive.org/details/a-review-of-machine-learning) [[Derivation Tables]](https://archive.org/details/a-review-of-machine-learning-derivation-tables)  
 
 * **_Supporting Repositories_**  
   [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) Statistical Learning with scikit-learn  
