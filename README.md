@@ -50,6 +50,7 @@
     [[view]](https://www.deeplearningbook.org/) 2016. Goodfellow. _Deep Learning_  
     [[view]](https://www.pearson.com/us/higher-education/program/Haykin-Neural-Networks-and-Learning-Machines-3rd-Edition/PGM320370.html) 2009. Haykin. _Neural Networks and Learning Machines. 3rd Edition_ [[view online]](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)  
   * **Courses**  
+    [[view]](https://dlsyscourse.org/) 2024. Kolter. **CMU**. _10-714: Deep Learning Systems_  
     [[view]](https://web.stanford.edu/class/cs224n/) 2023. Manning. **Stanford**. _CS224n: NLP with Deep Learning_  
     [[view]](http://introtodeeplearning.com/) 2023. Amini. **MIT**. _6.S191: Introduction to Deep Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)  
     [[view]](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) 2022. Lippe. **University of Amsterdam**. _Deep Learning Tutorials_ [[YouTube]](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)  
