@@ -130,7 +130,6 @@
 ## Generative AI
 
 * **_A Curated Reading List_**  
-  [view] 2024. Karpathy. _Let's reproduce GPT-2_ [[YouTube]](https://www.youtube.com/watch?v=l8pRSuU81PU)  
   [[view]](https://arxiv.org/abs/2403.18103) 2024. Chan. _Tutorial on Diffusion Models for Imaging and Vision_  
   [[view]](https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/) 2024. Kranen. _Applying Mixture of Experts in LLM Architectures_  
   [[view]](https://arxiv.org/abs/2402.15391) 2024. Bruce. _Genie: Generative Interactive Environments_  
@@ -143,6 +142,7 @@
   [[view]](https://arxiv.org/abs/2304.13712) 2023. Yang. _Harnessing the Power of LLMs in Practice_ [[GitHub]](https://github.com/Mooler0410/LLMsPracticalGuide) [[LeCun's Post]](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2)  
   [[view]](https://arxiv.org/abs/2304.12210) 2023. Balestriero. _A Cookbook of Self-Supervised Learning_ [[Blog]](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)  
   [[view]](https://arxiv.org/abs/2304.06035) 2023. Togelius. _Choose Your Weapon: Survival Strategies for Depressed AI Academics_  
+  [view] 2023. Karpathy. _Let's build GPT: from scratch, in code, spelled out_ [[YouTube]](https://youtu.be/kCc8FmEb1nY?si=Orxi159eTjMo3Rc1)  
   [[view]](https://arxiv.org/abs/2108.07258) 2021. Bommasani. _On the Opportunities and Risks of Foundation Models_  
   [[view]](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) 2021. LeCun. _Self-supervised learning: The dark matter of intelligence_  
 
