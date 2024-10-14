@@ -80,7 +80,7 @@
   [[view]](https://arxiv.org/abs/1606.03498) 2016. Salimans. _Improved Techniques for Training GANs_ [[GitHub]](https://github.com/openai/improved-gan)  
   [[view]](https://arxiv.org/abs/1603.07285) 2016. Dumoulin. _A guide to convolution arithmetic for deep learning_ [[GitHub]](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)  
   [[view]](https://arxiv.org/abs/1512.03385) 2015. He. _Deep Residual Learning for Image Recognition_   
-  [[view]](https://arxiv.org/abs/1511.06434) 2015. Radford. _Unsupervised Representation Learning with Deep Convolutional GANs_ [[TensorFlow]](https://www.tensorflow.org/tutorials/generative/dcgan) [[Keras]](https://keras.io/guides/customizing_what_happens_in_fit/#wrapping-up-an-endtoend-gan-example)  
+  [[view]](https://arxiv.org/abs/1511.06434) 2015. Radford. _Unsupervised Representation Learning with Deep Convolutional GANs_ [[TensorFlow]](https://www.tensorflow.org/tutorials/generative/dcgan) [[Keras]](https://keras.io/guides/custom_train_step_in_tensorflow/#wrapping-up-an-endtoend-gan-example)  
   [[view]](https://arxiv.org/abs/1508.04025) 2015. Luong. _Effective Approaches to Attention-based Neural Machine Translation_  
   [[view]](https://arxiv.org/abs/1506.04214) 2015. Shi. _Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting_   
   [[view]](https://www.nature.com/articles/nature14539) 2015. LeCun. _Deep learning_  
