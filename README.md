@@ -41,6 +41,7 @@
 
 * **_References: Deep Learning_**  
   * **Textbooks**  
+    [[view]](https://www.bishopbook.com/) 2024. Bishop. _Deep Learning: Foundations and Concepts_  
     [[view]](https://udlbook.github.io/udlbook/) 2023. Prince. _Understanding Deep Learning_  
     [[view]](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) 2023. Foster. _Generative Deep Learning. 2nd Edition_  
     [[view]](https://www.pearson.com/us/higher-education/program/Ekman-Learning-Deep-Learning-Theory-and-Practice-of-Neural-Networks-Computer-Vision-Natural-Language-Processing-and-Transformers-Using-Tensor-Flow/PGM100003086745.html?tab=overview) 2022. Ekman. _Learning Deep Learning_  
