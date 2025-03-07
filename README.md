@@ -20,7 +20,7 @@
     [[view]](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html) 2020. Russell. Norvig. _Artificial Intelligence: A Modern Approach. 4th Edition_  
     [[view]](https://hastie.su.domains/ElemStatLearn/) 2017. Hastie. Tibshirani. _The Elements of Statistical Learning. 2nd Edition_  
     [view] 2016. Goodfellow. _Deep Learning_ [[Chapter 5: Machine Learning Basics]](https://www.deeplearningbook.org/contents/ml.html)  
-    [[view]](https://mitpress.mit.edu/books/machine-learning-1) 2012. Murphy. _Machine Learning A Probabilistic Perspective_  
+    [[view]](https://probml.github.io/pml-book/book0.html) 2012. Murphy. _Machine Learning A Probabilistic Perspective_  
     [[view]](https://www.routledge.com/Ensemble-Methods-Foundations-and-Algorithms/Zhou/p/book/9781439830031) 2012. Zhou. _Ensemble Methods: Foundations and Algorithms_  
     [[view]](https://www.pearson.com/us/higher-education/program/Haykin-Neural-Networks-and-Learning-Machines-3rd-Edition/PGM320370.html) 2009. Haykin. _Neural Networks and Learning Machines. 3rd Edition_ [[view online]](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)  
     [[view]](https://link.springer.com/book/9780387310732) 2006. Bishop. _Pattern Recognition and Machine Learning_ [[view online]](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [[view solutions online]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)  
