@@ -227,5 +227,4 @@
 [[view]](https://hai.stanford.edu/) _The Institute for Human-Centered AI (HAI)_  
 [[view]](https://www.nsf.gov/cise/ai.jsp) _AI at NSF_  
 [[view]](https://www.energy.gov/artificial-intelligence-technology-office) _DOE's AI & Technology Office_  
-[[view]](https://www.ai.gov/) _National AI Initiative_  
 
