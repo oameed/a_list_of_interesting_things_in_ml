@@ -34,10 +34,10 @@
      [[view]](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) 2020. Muller. **Columbia**. _COMS W4995: Applied Machine Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)  
      [view] 2018. Ng. **Stanford**. _CS229: Machine Learning_ [[YouTube]](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) [[Cheatsheets by Amidi]](https://stanford.edu/~shervine/teaching/cs-229/)  
      [[view]](https://people.cs.umass.edu/~akshay/courses/cs690m/) 2017. Krishnamurthy. **UMASS**. _CMPSCI 690M: Machine Learning Theory_  
+     [[view]](https://uwaterloo.ca/data-analytics/videos-and-slides-courses) 2017. Ghodsi. **UWaterloo**. _STAT 841: Statistical Learning_  
      [[view]](https://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/CSC411_Fall16.html) 2016. Urtasun. **UToronto**. _CSC411: Introduction to Machine Learning_  
      [[view]](http://www.cnel.ufl.edu/courses/EEL6814/EEL6814.php) 2016. Principe. **UFL**. _EEL 6814: Neural Networks for Signal Processing_  
      [[view]](https://people.cs.umass.edu/~domke/courses/sml2011/) 2011. Domke. **UMASS**. _Statistical Machine Learning_  
-     [[view]](https://www.math.uwaterloo.ca/~aghodsib/courses/f07stat841/f07stat841.html#Lectures) 2007. Ghodsi. **UWaterloo**. _STAT 841: Statistical Learning_  
 
 * **_References: Deep Learning_**  
   * **Textbooks**  
